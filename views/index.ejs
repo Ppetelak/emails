@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visualizador de Arquivos HTML</title>
+  <!-- Link para o CSS do Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container mt-4">
+    <h1 class="text-center">Arquivos e Pastas</h1>
+    
+    <!-- Botão para retornar à raiz -->
+    <% if (currentPath) { %>
+      <div class="mb-3">
+        <a href="/" class="btn btn-primary">Voltar à raiz</a>
+      </div>
+    <% } %>
+
+    <ul class="list-group">
+      <% files.forEach(function(file) { %>
+        <% if (file.isDirectory) { %>
+          <li class="list-group-item">
+            <a href="/<%= file.path %>">
+              <strong>[Pasta]</strong> <%= file.name %>
+            </a>
+          </li>
+        <% } else { %>
+          <li class="list-group-item">
+            <a href="/<%= file.path %>"><%= file.name %></a>
+          </li>
+        <% } %>
+      <% }); %>
+    </ul>
+  </div>
+
+  <!-- Script do Bootstrap -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
