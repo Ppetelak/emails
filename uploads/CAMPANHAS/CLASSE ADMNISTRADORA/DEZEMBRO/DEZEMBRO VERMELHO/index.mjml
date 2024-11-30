@@ -1,0 +1,121 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text> </mj-text>
+      <mj-section background-color="#eff6ff"> </mj-section>
+    </mj-attributes>
+
+    <mj-style>
+      a { color: inherit; text-decoration: none } .card div { padding:32px 30px;
+      background-color:"transparent"; border:2px solid #B8000F;
+      border-radius:20px; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section background-color="#2CB4B3">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho/assets/logo.png"
+          alt=""
+          width="200px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" padding-top="40px">
+      <mj-group width="80%">
+        <mj-column vertical-align="top" width="45%" padding="0">
+          <mj-image
+            padding="20px 0 0 0"
+            src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho/assets/ribbon.png"
+            alt=""
+          />
+          <mj-text
+            css-class="card"
+            color="#707070"
+            padding="10px"
+            padding-top="0"
+            line-height="1.5"
+            font-size="14px"
+          >
+            Faça o teste e <br />
+            proteja-se com <br />
+            responsabilidade.
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="55%" vertical-align="top">
+          <mj-image
+            padding="0"
+            src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho/assets/hero.png"
+            alt=""
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10px 0 0 0">
+      <mj-column
+        width="80%"
+        background-color="#B8000F"
+        border-radius="20px"
+        padding="26px"
+      >
+        <mj-text
+          align="center"
+          font-size="36px"
+          font-weight="bold"
+          color="white"
+          padding="0"
+        >
+          Dezembro Vermelho
+        </mj-text>
+        <mj-text align="center" font-size="16px" padding="0" color="white">
+          A prevenção é o melhor remédio!
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text
+          align="center"
+          font-size="26px"
+          font-weight="300"
+          color="#707070"
+          padding-top="30px"
+        >
+          <i>Vamos juntos por essa causa!</i>
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="24px"
+          font-weight="400"
+          color="#B8000F"
+        >
+          <i>Mês de Conscientização e <br />Combate a AIDS e HIV</i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="60px 0 0 0">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho/assets/ANS-CA.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#707070" font-size="12px">
+          <a
+            href="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho/"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

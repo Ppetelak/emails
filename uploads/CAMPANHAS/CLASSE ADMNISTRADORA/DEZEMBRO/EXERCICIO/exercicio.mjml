@@ -1,0 +1,97 @@
+<mjml>
+  <mj-head>
+    <mj-title>Exercício</mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#eff6ff"> </mj-section>
+    </mj-attributes>
+
+    <mj-font
+      name="Inter"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Inter" />
+
+    <mj-style>
+      /*.logo { border-radius: 20px; background-color: #4554BA;}*/ a { color:
+      inherit; text-decoration: none }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding="0" background-color="#2A9E9D">
+      <mj-group>
+        <mj-column padding="0" width="40%" vertical-align="middle">
+          <mj-image
+            padding="0 0 0 0"
+            src="https://www.classeadministradora.com.br/emails/Dezembro/EXERCICIO/assets/hero.png"
+            alt=""
+        /></mj-column>
+        <mj-column vertical-align="middle" padding="0 0px 0 24px">
+          <mj-text
+            color="white"
+            font-weight="900"
+            font-size="28px"
+            align="right"
+            padding="0px 0 20px 0"
+          >
+            Durante as férias, não esqueça do seu bem-estar!
+          </mj-text>
+          <mj-text
+            color="white"
+            font-weight="400"
+            font-size="14px"
+            align="right"
+            padding="0 0 40px 0"
+          >
+            Exercitar-se no tempo livre é uma forma divertida de relaxar e
+            cuidar do seu corpo!<br /><br />
+            Encontre uma atividade que você ama e
+            <strong>mantenha-se em movimento.</strong>
+          </mj-text>
+          <mj-text
+            color="#33376B"
+            font-weight="600"
+            font-size="16px"
+            align="right"
+            container-background-color="#AADC6E"
+            padding="8px 4px"
+          >
+            <i>Aproveite cada instante para cuidar da sua saúde!</i>
+          </mj-text>
+
+          <mj-image
+            src="https://www.classeadministradora.com.br/emails/Dezembro/EXERCICIO/assets/ANS-CA.png"
+            alt=""
+            padding="80px 5px 0 0"
+            width="80px"
+            align="right"
+          />
+
+          <mj-image
+            css-class="logo"
+            src="https://www.classeadministradora.com.br/emails/Dezembro/EXERCICIO/assets/logo.png"
+            alt=""
+            width="220px"
+            align="center"
+            padding="20px 0"
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="80%">
+        <mj-text align="center" color="#707070" font-size="12px">
+          <a
+            href="https://www.classeadministradora.com.br/emails/Dezembro/EXERCICIO/"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
