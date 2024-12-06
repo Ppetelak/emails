@@ -1,0 +1,198 @@
+<mjml>
+  <mj-head>
+    <mj-title>Verão Classe Administradora</mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#EFEEEC"> </mj-section>
+      <mj-text color="#FFF" font-family="Inter"> </mj-text>
+    </mj-attributes>
+
+    <mj-font
+      name="Inter"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+    />
+
+    <mj-all font-family="Inter" />
+
+    <mj-style> a { color: inherit; text-decoration: none } </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding="0" padding-top="40px">
+      <mj-group width="100%">
+        <mj-column width="55%" vertical-align="middle">
+          <mj-image
+            padding="0"
+            src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho-2/assets/ribbon.png"
+            alt=""
+          />
+        </mj-column>
+        <mj-column width="45%" vertical-align="middle">
+          <mj-text
+            font-family="Inter"
+            font-size="32px"
+            padding="0"
+            color="#6C6B6B"
+            font-weight="900"
+            line-height="2"
+          >
+            DEZEMBRO
+          </mj-text>
+          <mj-text
+            padding="0"
+            font-size="86px"
+            color="#D81009"
+            font-weight="900"
+          >
+            VER<br />
+            ME<br />
+            LHO<br />
+          </mj-text>
+          <mj-text
+            font-family="Inter"
+            font-size="20px"
+            padding="20px 0 "
+            color="#6C6B6B"
+            line-height="1.2"
+          >
+            Mês de <b>Combate à AIDS</b>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-wrapper background-color="#EFEEEC" padding="0">
+      <mj-section
+        padding="50px 0 0 0"
+        background-color="#3C417D"
+        border-radius="500px 500px 0 0"
+      >
+        <mj-column width="70%">
+          <mj-image
+            padding="60px 0"
+            src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho-2/assets/hero.png"
+            alt=""
+            width="400px"
+            border-radius="50px"
+          />
+        </mj-column>
+        <mj-column width="80%">
+          <mj-text font-size="16px" align="center">
+            O Mês de
+            <b> Combate à AIDS, ou Dezembro Vermelho,</b> é um importante
+            lembrete sobre a prevenção dessa doença! <br /><br />
+
+            Registrado pela primeira vez em <b>1981,</b> o HIV só ganhou o
+            primeiro medicamento eficaz quase <b>10 anos depois,</b> quando já
+            existiam cerca de 3 mil casos notificados no Brasil. <br /><br />
+
+            Até <b>2022,</b> quase <b>1 milhão</b> de pessoas viviam com o HIV
+            e, dentre os que estavam em tratamento, <b>95%</b> já apresentavam
+            uma carga viral indetectável.<br /><br />
+            Para que seja possível atingir a meta da <b>ONU</b> de fazer com que
+            a AIDS não seja mais uma ameaça de saúde pública até 2030, propague
+            informações verídicas e ajude a eliminar os mitos, estigmas e
+            preconceitos sobre essa doença! <br /><br />
+
+            <b> Dezembro Vermelho </b>
+            - Cuidar de si e do outro é um ato de amor: faça o teste, use
+            preservativo e ajude a combater o HIV.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#3C417D">
+      <mj-group width="80%">
+        <mj-column width="50%">
+          <mj-button
+            padding="20px 0"
+            background-color="transparent"
+            line-height="26px"
+            align="right"
+            href="https://www.facebook.com/administradoraclasse"
+          >
+            <img
+              align="right"
+              src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho-2/assets/fb.png"
+              style="width: 50px; vertical-align: middle"
+            />
+            &nbsp;
+            <a
+              href="https://www.facebook.com/administradoraclasse"
+              style="vertical-align: middle"
+            ></a>
+            &nbsp;
+          </mj-button>
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-button
+            padding="20px 0"
+            background-color="transparent"
+            line-height="26px"
+            align="left"
+            href="https://www.instagram.com/classeadm"
+          >
+            <img
+              align="left"
+              src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho-2/assets/ig.png"
+              style="width: 50px; vertical-align: middle"
+            />
+            &nbsp;
+            <a
+              href="https://www.instagram.com/classeadm"
+              style="vertical-align: middle"
+            ></a>
+            &nbsp;
+          </mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-column width="100%">
+        <mj-button
+          background-color="transparent"
+          border="1px solid white"
+          border-radius="20px"
+          font-size="16px"
+          href="https://www.classeadministradora.com.br"
+        >
+          classeadministradora.com.br
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="0" background-color="#3C417D">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho-2/assets/logo.png"
+          alt=""
+          width="200px"
+          align="center"
+          padding="30px"
+        />
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho-2/assets/ANS-CA.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+
+      <mj-column width="80%">
+        <mj-text align="center" color="#fefefe" font-size="12px">
+          <a
+            href="https://www.classeadministradora.com.br/emails/Dezembro/Dezembro-Vermelho-2/"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
