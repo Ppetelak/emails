@@ -1,0 +1,235 @@
+<mjml>
+  <mj-head>
+    <mj-title>DEZEMBRO LARANJA</mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#3B48A2"> </mj-section>
+      <mj-text color="#FFF" font-family="Inter"> </mj-text>
+    </mj-attributes>
+
+    <mj-font
+      name="Inter"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+    />
+
+    <mj-all font-family="Inter" />
+
+    <mj-style> a { color: inherit; text-decoration: none } </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding="0">
+      <mj-group width="100%">
+        <mj-column width="45%" vertical-align="top">
+          <mj-text
+            padding-left="40px"
+            padding-top="20px"
+            font-family="Inter"
+            font-size="26px"
+            padding="0"
+            color="#FFF"
+            font-weight="900"
+            line-height="2"
+          >
+            DEZEMBRO
+          </mj-text>
+          <mj-text
+            padding="0"
+            padding-left="40px"
+            font-size="76px"
+            color="#F4930A"
+            font-weight="900"
+          >
+            LA<br />
+            RAN<br />
+            JA<br />
+          </mj-text>
+          <mj-text
+            padding-left="40px"
+            font-family="Inter"
+            font-size="18px"
+            padding="10px 0 "
+            color="#FFF"
+            line-height="1.4"
+          >
+            Mês de<br />
+            <b>Conscientização</b>
+            <br />
+            sobre o <br />
+
+            <b>Câncer de Pele</b>
+          </mj-text>
+
+          <mj-image
+            padding="0"
+            align="center"
+            width="190px"
+            src="https://www.comparadm.com.br/emails/Dezembro/Dezembro-Laranja/assets/ribbon.png"
+            alt=""
+          />
+        </mj-column>
+
+        <mj-column width="55%" vertical-align="top" padding="0">
+          <mj-image
+            padding="0"
+            src="https://www.comparadm.com.br/emails/Dezembro/Dezembro-Laranja/assets/hero.png"
+            alt=""
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="50px 0 " background-color="#EC7400">
+      <mj-column width="80%">
+        <mj-text line-height="1.4" font-size="16px" align="center">
+          O câncer de pele é o tipo de câncer que
+          <b> mais atinge a população no geral. </b>
+
+          <br /><br />
+
+          O câncer não-melanoma possui maior incidência no Brasil, representando
+          cerca de
+          <b> 30% de todos os tumores malignos, </b>
+          sendo o mais frequente mas com menos mortalidade dentre os cânceres de
+          pele.
+
+          <br /><br />
+
+          Já o câncer melanoma é mais agressivo, pois pode se espalhar para
+          outros órgãos e tecidos, apesar de ser menos recorrente. No Brasil,
+          estima-se que
+          <b>
+            4,13 pessoas a cada 100 mil habitantes têm risco de desenvolver esse
+            tipo de tumor.
+          </b>
+          <br /><br />
+
+          Neste Mês de Conscientização sobre o Câncer de Pele, ou Dezembro
+          Laranja, não deixe de proteger sua pele com a utilização de protetor
+          solar, hidratante, óculos de sol, chapéu e mangas compridas!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="40px 0 0">
+      <mj-group width="50%">
+        <mj-column width="15%" vertical-align="middle">
+          <mj-image
+            align="right"
+            src="https://www.comparadm.com.br/emails/Dezembro/Dezembro-Laranja/assets/ribbon-icon.png"
+            alt=""
+            padding="0"
+          />
+        </mj-column>
+        <mj-column padding="0" width="85%" vertical-align="middle">
+          <mj-text
+            padding="0"
+            padding-bottom="5px"
+            padding-left="10px"
+            font-size="22px"
+            font-weight="bold"
+            color="#F4930A"
+          >
+            DEZEMBRO LARANJA
+          </mj-text>
+          <mj-text padding="0" padding-left="10px" font-size="14px">
+            Proteger a pele é proteger a saúde
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#3B48A2">
+      <mj-group width="80%">
+        <mj-column width="50%">
+          <mj-button
+            padding="20px 0"
+            background-color="transparent"
+            line-height="26px"
+            align="right"
+            href="https://www.facebook.com/comparadm"
+          >
+            <img
+              align="right"
+              src="https://www.comparadm.com.br/emails/Dezembro/Dezembro-Laranja/assets/fb.png"
+              style="width: 50px; vertical-align: middle"
+            />
+            &nbsp;
+            <a
+              href="https://www.facebook.com/comparadm"
+              style="vertical-align: middle"
+            ></a>
+            &nbsp;
+          </mj-button>
+        </mj-column>
+
+        <mj-column width="50%">
+          <mj-button
+            padding="20px 0"
+            background-color="transparent"
+            line-height="26px"
+            align="left"
+            href="https://www.instagram.com/admcompar"
+          >
+            <img
+              align="left"
+              src="https://www.comparadm.com.br/emails/Dezembro/Dezembro-Laranja/assets/ig.png"
+              style="width: 50px; vertical-align: middle"
+            />
+            &nbsp;
+            <a
+              href="https://www.instagram.com/admcompar"
+              style="vertical-align: middle"
+            ></a>
+            &nbsp;
+          </mj-button>
+        </mj-column>
+      </mj-group>
+
+      <mj-column width="100%">
+        <mj-button
+          background-color="transparent"
+          border="1px solid white"
+          border-radius="20px"
+          font-size="16px"
+          href="https://www.comparadm.com.br"
+        >
+          comparadm.com.br
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="0" background-color="#3B48A2">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.comparadm.com.br/emails/Dezembro/Dezembro-Laranja/assets/logo.png"
+          alt=""
+          width="200px"
+          align="center"
+          padding="30px"
+        />
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.comparadm.com.br/emails/Dezembro/Dezembro-Laranja/assets/ANS-compar.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+
+      <mj-column width="80%">
+        <mj-text align="center" color="#fefefe" font-size="12px">
+          <a
+            href="https://www.comparadm.com.br/emails/Dezembro/Dezembro-Laranja/"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
