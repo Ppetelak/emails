@@ -1,0 +1,165 @@
+<mjml>
+  <mj-head>
+    <mj-title>Feliz Natal!</mj-title>
+
+    <mj-attributes>
+      <mj-section padding="0" background-color="#6E4FEA"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Roboto, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#707070"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Roboto" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none } span { color: #BDE523;
+      font-weight: bold; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section>
+      <mj-group>
+        <mj-column width="25%">
+          <mj-image
+            align="left"
+            padding="0"
+            src="https://www.selectoperadora.com.br/emails/dezembro/natal/assets/enfeite.png"
+            alt=""
+          />
+        </mj-column>
+
+        <mj-column width="50%"> </mj-column>
+
+        <mj-column width="25%">
+          <mj-image
+            align="right"
+            padding="0"
+            src="https://www.selectoperadora.com.br/emails/dezembro/natal/assets/enfeite2.png"
+            alt=""
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="40%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/dezembro/natal/assets/logo.png"
+          alt=""
+          align="center"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="30px">
+      <mj-group>
+        <mj-column width="20%" vertical-align="bottom">
+          <mj-image
+            align="left"
+            padding="0"
+            src="https://www.selectoperadora.com.br/emails/dezembro/natal/assets/estrela.png"
+            alt=""
+          />
+        </mj-column>
+
+        <mj-column
+          background-color="#463296"
+          width="60%"
+          border-radius="22px 22px 0 0"
+          vertical-align="bottom"
+        >
+          <mj-text
+            color="white"
+            align="center"
+            line-height="1.2"
+            padding="30px 22px"
+          >
+            Desejamos um Natal repleto de
+            <b>paz, alegria, saúde e muitos momentos especiais</b> para
+          </mj-text>
+
+          <mj-text
+            font-size="24px"
+            color="white"
+            align="center"
+            line-height="1.2"
+            padding="0 0 30px"
+          >
+            você e toda a sua <span>família!</span>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="20%" vertical-align="bottom">
+          <mj-image
+            align="right"
+            padding="0"
+            src="https://www.selectoperadora.com.br/emails/dezembro/natal/assets/estrela2.png"
+            alt=""
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image
+          padding="0"
+          src="https://www.selectoperadora.com.br/emails/dezembro/natal/assets/hero.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="30px">
+      <mj-column width="50%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/dezembro/natal/assets/icon.png"
+          alt=""
+          align="center"
+          width="50px"
+        />
+        <mj-text
+          color="white"
+          align="center"
+          font-weight="bold"
+          font-size="24px"
+        >
+          Feliz Natal <br />e Boas Festas!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="60px 0 0 0">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/dezembro/natal/assets/ANS-SELECT.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="left"
+        />
+      </mj-column>
+      <mj-column background-color="#6E4FEB">
+        <mj-text align="center" color="#FFF" font-size="12px">
+          <a
+            href="https://www.selectoperadora.com.br/emails/dezembro/natal/"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
