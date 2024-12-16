@@ -30,7 +30,7 @@
     <mj-section>
       <mj-column width="100%">
         <mj-image
-          src="https:///www.mounthermon.com.br/emails/guiasAlimentacao/assets/hero.png"
+          src="https:///www.mounthermon.com.br/emails/guiasExercicio/assets/hero.png"
           alt=""
           padding="0"
         />
@@ -54,13 +54,11 @@
     <mj-section padding="40px 0 50px">
       <mj-column width="85%">
         <mj-text align="center" font-size="18px" line-height="1.4">
-          Os cuidados com a alimentação são importantes para uma vida tranquila
-          e não devem ser deixados de lado.
-          <br />
-          Pensando nisso, preparamos um
-          <b>material para te ajudar</b>
-          a explorar a importância de
-          <b> hábitos alimentares saudáveis. </b>
+          Elaboramos um novo guia de saúde feito para te fornecer
+          <b> informações valiosas </b>
+          sobre os benefícios dos
+          <b> exercícios físicos </b>
+          e como adotá-los em seu dia a dia.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -73,7 +71,7 @@
         border-radius="1000px 1000px 0 0"
       >
         <mj-image
-          src="https://www.mounthermon.com.br/emails/guiasAlimentacao/assets/icon.png"
+          src="https://www.mounthermon.com.br/emails/guiasExercicio/assets/icon.png"
           alt=""
           padding="0"
           padding-top="40px"
@@ -81,14 +79,16 @@
         />
 
         <mj-text padding="30px 100px" font-size="18px" align="center">
-          <b> Leia o guia completo </b>
-          para descobrir os benefícios de uma alimentação balanceada e confira
-          dicas de como implementar esses hábitos na sua vida!
+          Acesse o
+          <b> material em anexo </b>
+
+          e veja como a prática de exercícios físicos pode melhorar a sua
+          qualidade de vida!
         </mj-text>
 
         <mj-image
           padding="50px 0 0"
-          src="https://www.mounthermon.com.br/emails/guiasAlimentacao/assets/logo.png"
+          src="https://www.mounthermon.com.br/emails/guiasExercicio/assets/logo.png"
           alt=""
           width="200px"
         />
@@ -98,7 +98,7 @@
     <mj-section css-class="Footer">
       <mj-column padding-top="40px" background-color="#9E6A21" width="100%">
         <mj-image
-          src="https://www.mounthermon.com.br/emails/guiasAlimentacao/assets/ANS-MH.png"
+          src="https://www.mounthermon.com.br/emails/guiasExercicio/assets/ANS-MH.png"
           alt=""
           padding="5px"
           width="100px"
@@ -108,7 +108,7 @@
       <mj-column background-color="#9E6A21" width="100%">
         <mj-text align="center" color="#FFF" font-size="12px">
           <a
-            href="https://www.mounthermon.com.br/emails/guiasAlimentacao/"
+            href="https://www.mounthermon.com.br/emails/guiasExercicio/"
             text-decoration="none"
             >Caso não esteja conseguindo vizualizar o email,
             <b> clique aqui e visualize no navegador </b>
