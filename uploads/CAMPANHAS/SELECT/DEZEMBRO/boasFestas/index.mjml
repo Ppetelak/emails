@@ -1,0 +1,173 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#f7f2f2" padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Roboto, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="white"
+        line-height="1.2"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Roboto" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none } span { color: #BDE523;
+      font-weight: bold;}
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding="0">
+      <mj-group>
+        <mj-column vertical-align="middle" width="25%">
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/dezembro/boasFestas/assets/decoracao-esquerda.png"
+            alt=""
+            padding="0"
+            width="100px"
+            align="left"
+          />
+        </mj-column>
+
+        <mj-column width="30%" vertical-align="middle"> </mj-column>
+        <mj-column width="45%">
+          <mj-image
+            padding="0"
+            src="https://www.selectoperadora.com.br/emails/dezembro/boasFestas/assets/decoracao-direita.png"
+            alt=""
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="60%">
+        <mj-image
+          padding="0"
+          src="https://www.selectoperadora.com.br/emails/dezembro/boasFestas/assets/hero.png"
+          alt=""
+          width="400px"
+        />
+
+        <mj-text
+          padding="40px 0"
+          align="center"
+          font-size="36px"
+          color="#6550e6"
+        >
+          Olá,
+          <b> Nome </b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="35%" vertical-align="middle">
+        <mj-image
+          padding="0"
+          align="left"
+          src="https://www.selectoperadora.com.br/emails/dezembro/boasFestas/assets/img1.png"
+          alt=""
+        />
+      </mj-column>
+      <mj-column width="65%" vertical-align="middle">
+        <mj-text
+          color="#5b6066"
+          font-size="18px"
+          align="justify"
+          line-height="1.2"
+          padding="0 60px 0 40px"
+        >
+          Chegamos ao final de 2024 e não poderíamos deixar de expressar nossa
+          sincera <strong>gratidão</strong> pela parceria e confiança ao longo
+          deste ano. Juntos, conseguimos
+          <strong>superar desafios e alcançar grandes resultados.</strong>
+
+          <br /><br />
+          Desejamos que este período de festas seja repleto de
+          <strong>momentos felizes e de renovação</strong>, e que 2025 seja um
+          ano de ainda mais conquistas e oportunidades para você!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="40px 0">
+      <mj-column width="55%" vertical-align="middle">
+        <mj-text
+          color="#5b6066"
+          font-size="18px"
+          align="justify"
+          line-height="1.2"
+          padding="0 40px 0 60px"
+        >
+          Estamos ansiosos para continuar contando com sua parceria no próximo
+          ano, vamos juntos trilhar um caminho de sucesso!
+        </mj-text>
+
+        <mj-text
+          color="#5b6066"
+          font-size="24px"
+          font-weight="500"
+          align="right"
+          line-height="1.2"
+          padding="20px 40px 0 40px"
+        >
+          Boas festas e um próspero Ano Novo!
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="45%" vertical-align="middle">
+        <mj-image
+          padding="0"
+          align="right"
+          src="https://www.selectoperadora.com.br/emails/dezembro/boasFestas/assets/img2.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="50%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/dezembro/boasFestas/assets/Logo-SELECT.png"
+          alt=""
+          padding="40px 0"
+          width="400px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="60px 0 0 0">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/dezembro/boasFestas/assets/ANS-SELECT.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="left"
+        />
+      </mj-column>
+      <mj-column background-color="#212B33">
+        <mj-text align="center" color="#FFF" font-size="12px">
+          <a
+            href="https://www.selectoperadora.com.br/emails/dezembro/boasFestas/"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
