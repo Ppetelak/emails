@@ -3,7 +3,7 @@
     <mj-title></mj-title>
 
     <mj-attributes>
-      <mj-section background-color="#212B33" padding="0"></mj-section>
+      <mj-section background-color="#6E4FEA" padding="0"></mj-section>
       <mj-column width="100%" padding="0"></mj-column>
       <mj-text
         font-family="Roboto, 'Open Sans', sans-serif"
@@ -96,10 +96,10 @@
           alt=""
           padding="5px"
           width="100px"
-          align="left"
+          align="center"
         />
       </mj-column>
-      <mj-column background-color="#212B33">
+      <mj-column background-color="#6E4FEA">
         <mj-text align="center" color="#FFF" font-size="12px">
           <a
             href="https://www.selectoperadora.com.br/emails/dezembro/anoNovo/"
