@@ -30,7 +30,7 @@
     <mj-section>
       <mj-column width="100%">
         <mj-image
-          src="https:///www.comparadm.com.br/emails/guiasExercicio/assets/hero.png"
+          src="https:///www.comparadm.com.br/emails/guiasSaude/assets/hero.png"
           alt=""
           padding="0"
         />
@@ -54,11 +54,19 @@
     <mj-section padding="40px 0 50px">
       <mj-column width="85%">
         <mj-text align="center" font-size="18px" line-height="1.4">
-          Elaboramos um novo guia de saúde feito para te fornecer
-          <b> informações valiosas </b>
-          sobre os benefícios dos
-          <b> exercícios físicos </b>
-          e como adotá-los em seu dia a dia.
+          Sabemos o quanto
+          <b> cuidar da saúde </b>
+          é essencial, e por isso preparamos um
+          <b> guia completo </b>
+          que pode fazer toda a diferença na sua rotina!
+
+          <br /><br />
+
+          No
+          <b> material em anexo, </b>
+          você encontrará dicas práticas e informações valiosas sobre como
+          gerenciar doenças crônicas, além de orientações e dicas essenciais
+          para você adotar no seu dia a dia. 
         </mj-text>
       </mj-column>
     </mj-section>
@@ -71,7 +79,7 @@
         border-radius="1000px 1000px 0 0"
       >
         <mj-image
-          src="https://www.comparadm.com.br/emails/guiasExercicio/assets/icon.png"
+          src="https://www.comparadm.com.br/emails/guiasSaude/assets/icon.png"
           alt=""
           padding="0"
           padding-top="40px"
@@ -79,16 +87,17 @@
         />
 
         <mj-text padding="30px 100px" font-size="18px" align="center">
-          Acesse o
-          <b> material em anexo </b>
-
-          e veja como a prática de exercícios físicos pode melhorar a sua
-          qualidade de vida!
+          Aproveite para
+          <b>
+            ler o guia <br />
+            completo
+          </b>
+          e proteja a sua saúde!
         </mj-text>
 
         <mj-image
           padding="50px 0 0"
-          src="https://www.comparadm.com.br/emails/guiasExercicio/assets/logo.png"
+          src="https://www.comparadm.com.br/emails/guiasSaude/assets/logo.png"
           alt=""
           width="200px"
         />
@@ -98,7 +107,7 @@
     <mj-section css-class="Footer">
       <mj-column padding-top="40px" background-color="#EC7400" width="100%">
         <mj-image
-          src="https://www.comparadm.com.br/emails/guiasExercicio/assets/ANS-compar.png"
+          src="https://www.comparadm.com.br/emails/guiasSaude/assets/ANS-compar.png"
           alt=""
           padding="5px"
           width="100px"
@@ -108,7 +117,7 @@
       <mj-column background-color="#EC7400" width="100%">
         <mj-text align="center" color="#FFF" font-size="12px">
           <a
-            href="https://www.comparadm.com.br/emails/guiasExercicio/"
+            href="https://www.comparadm.com.br/emails/guiasSaude/"
             text-decoration="none"
             >Caso não esteja conseguindo vizualizar o email,
             <b> clique aqui e visualize no navegador </b>
