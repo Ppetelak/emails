@@ -150,7 +150,7 @@
           align="left"
         />
       </mj-column>
-      <mj-column background-color="#6E4FEB">
+      <mj-column>
         <mj-text align="center" color="#FFF" font-size="12px">
           <a
             href="https://www.selectoperadora.com.br/emails/dezembro/natal/"
