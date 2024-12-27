@@ -1,0 +1,114 @@
+<mjml>
+  <mj-head>
+    <mj-title>A Importância de ter um Plano Odontológico</mj-title>
+
+    <mj-attributes>
+      <mj-section padding="0" background-color="#3C417D"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Roboto, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#FFF"
+        line-height="1.2"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Roboto" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none } span { color: red;}
+    </mj-style>
+  </mj-head>
+
+  <mj-body width="600px">
+    <mj-section>
+      <mj-column width="100%" padding="20px 0 10px 0">
+        <mj-image
+          padding="40px 0"
+          width="180px"
+          src="https://www.classeadministradora.com.br/emails/commonAssets/logo.png"
+          alt=""
+        />
+        <mj-text align="center" font-size="26px">
+          A Importância de ter um <br />
+          <b> Plano Odontológico </b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+      <mj-column width="100%">
+        <mj-image
+          padding="0"
+          src="https://www.classeadministradora.com.br/emails/planoOdonto/assets/hero.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2CB4B3" padding="20px 0 50px">
+      <mj-column width="80%">
+        <mj-text align="center" font-size="18px" line-height="1.4">
+          Para te ajudar a cuidar ainda mais da sua saúde, preparamos um
+          material especial sobre
+          <b> a importância de um bom Plano Odontológico. </b>
+          <br /><br />
+          No anexo, você encontrará um guia completo que vai te ajudar a
+          <b> entender os benefícios </b>
+          de um Plano Odontológico e como esse investimento pode fazer toda a
+          diferença no seu dia a dia.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2CB4B3">
+      <mj-column
+        padding="30px 0 10px"
+        width="100%"
+        background-color="#3C417D"
+        border-radius="1000px 1000px 0 0"
+      >
+        <mj-image
+          src="https://www.classeadministradora.com.br/emails/planoOdonto/assets/icon.png"
+          alt=""
+          padding="0"
+          padding-top="40px"
+          width="100px"
+        />
+
+        <mj-text
+          padding="30px 100px"
+          font-weight="bold"
+          font-size="18px"
+          align="center"
+        >
+          Aproveite para ler o material
+          <br />
+          completo e se surpreenda!
+        </mj-text>
+        <mj-image
+          src="https://www.classeadministradora.com.br/emails/commonAssets/ANS.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="center"
+        />
+
+        <mj-text align="center" color="#FFF" font-size="12px">
+          <a
+            href="https://www.classeadministradora.com.br/emails/planoOdonto/"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
