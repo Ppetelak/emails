@@ -93,7 +93,7 @@
           completo e se surpreenda!
         </mj-text>
         <mj-image
-          src="https://www.mounthermon.com.br/emails/guiasAlimentacao/assets/ANS-MH.png"
+          src="https://www.mounthermon.com.br/emails/commonAssets/ANS.png"
           alt=""
           padding="5px"
           width="100px"
@@ -102,7 +102,7 @@
 
         <mj-text align="center" color="#FFF" font-size="12px">
           <a
-            href="https://www.mounthermon.com.br/emails/guiasAlimentacao/"
+            href="https://www.mounthermon.com.br/emails/planoOdonto/"
             text-decoration="none"
             >Caso não esteja conseguindo vizualizar o email,
             <b> clique aqui e visualize no navegador </b>
