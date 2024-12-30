@@ -92,6 +92,12 @@
           <br />
           completo e se surpreenda!
         </mj-text>
+        <mj-button 
+                   background-color= "#ec7400"
+                   href= "https://comparadm.com.br/flipbook/a-importancia-do-plano-odontologico/"
+                   > 
+          Clique aqui para ler
+        </mj-button>
         <mj-image
           src="https://www.comparadm.com.br/emails/commonAssets/ANS.png"
           alt=""

@@ -92,6 +92,12 @@
           <br />
           completo e se surpreenda!
         </mj-text>
+        <mj-button 
+                   background-color= "#2cb4b3"
+                   href= "https://classeadministradora.com.br/flipbook/a-importancia-do-plano-odontologico/"
+                   > 
+          Clique aqui para ler
+        </mj-button>
         <mj-image
           src="https://www.classeadministradora.com.br/emails/commonAssets/ANS.png"
           alt=""
