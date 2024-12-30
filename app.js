@@ -7,6 +7,8 @@ const fileRoutes = require('./routes/fileRoutes');
 const app = express();
 app.set('view engine', 'ejs');
 app.use(express.static(path.join(__dirname, 'public')));
+app.use('/assets', express.static(path.join(__dirname, 'assets')));
+
 
 // Usando as rotas para listar diretórios e arquivos
 app.use('/', fileRoutes);
