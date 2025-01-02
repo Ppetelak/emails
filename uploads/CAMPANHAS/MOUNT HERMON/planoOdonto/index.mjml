@@ -46,13 +46,13 @@
       <mj-column width="100%">
         <mj-image
           padding="0"
-          src="https://www.mounthermon.com.br/emails/planoOdonto/assets/hero.png"
+          src="https://emailslinhamaster.midiaideal.net/assets/planoOdonto30122024.png"
           alt=""
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#EC7400" padding="20px 0 50px">
+    <mj-section background-color="#9e6a21" padding="20px 0 50px">
       <mj-column width="80%">
         <mj-text align="center" font-size="18px" line-height="1.4">
           Para te ajudar a cuidar ainda mais da sua saúde, preparamos um
@@ -67,7 +67,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#EC7400">
+    <mj-section background-color="#9e6a21">
       <mj-column
         padding="30px 0 10px"
         width="100%"
@@ -93,7 +93,7 @@
           completo e se surpreenda!
         </mj-text>
         <mj-button 
-                   background-color= "#ec7400"
+                   background-color= "#9e6a21"
                    href= "https://mounthermon.com.br/flipbook/a-importancia-do-plano-odontologico/"
                    > 
           Clique aqui para ler
