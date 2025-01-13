@@ -1,0 +1,135 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Inter, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#707070"
+        line-height="1.2"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Inter"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Inter" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none } span { color: red;}
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section background-color="#D5801B" padding-bottom="0">
+      <mj-column width="70%">
+        <mj-image
+          padding="40px"
+          src="https://www.mounthermon.com.br/emails/commonAssets
+/logo.png"
+          alt=""
+          width="150px"
+        />
+
+        <mj-text align="center" padding-bottom="0" color="white" font-size="26px">
+          Cuidar da mente
+          <b>
+            é cuidar <br />
+            da vida!
+          </b>
+        </mj-text>
+    </mj-section>
+    <mj-section background-color="#213376">
+      <mj-column width="100%">
+        <mj-image
+          padding="0"
+          src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco/assets/hero.png"
+          alt=""
+        />
+
+
+      </mj-column>
+
+      <mj-column width="95%" padding="30px">
+              <mj-text align="center" padding-bottom="0" color="white" font-size="16px">
+          <b>
+          O ano de 2025 começou
+          </b>
+           e trouxe consigo uma <br>
+            importante campanha de cuidados com a saúde emocional da população:
+           <b>
+            o Janeiro Branco.
+           </b>
+           
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#213376">
+      <mj-group width="85%">
+        <mj-column  width="60%" vertical-align="middle">
+          <mj-text align="left" padding="0 0 0 0" color="white" font-size="16px" line-height="1.4">
+            <ul>
+              <li>
+              Praticar atividades físicas e uma boa alimentação
+              </li>
+              <li>
+              Possuir momentos de lazer
+              </li>
+              <li>
+              Não ter medo de pedir ajuda
+              </li>
+              <li>
+              Se desconectar das telas  
+              </li>
+              
+            </ul>
+           
+           </mj-text>
+         </mj-column>
+
+        <mj-column  width="40%" vertical-align="middle">
+          <mj-image src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco/assets/icon.png" width="120px" padding="0" alt="" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#213376" padding="30px 0"> 
+      <mj-column width="45%" background-color="#D5801B" border-radius="40px" >
+
+          <mj-text  align="center" font-weight="bold" align="center" padding="12px 10px" color="white" font-size="18px">
+            Junte-se a essa causa!
+          </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" background-color="#213376" padding="20px 0 0 0">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.mounthermon.com.br/emails/commonAssets/ANS.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#FFF" font-size="12px">
+          <a
+            href="https://mounthermon.com.br/emails/Janeiro/janeiroBranco"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
