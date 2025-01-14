@@ -140,7 +140,7 @@
         />
       </mj-column>
       <mj-column>
-        <mj-text align="center" color="#FFF" font-size="12px">
+        <mj-text align="center" color="#0e0e0e" font-size="12px">
           <a
             href="https://mounthermon.com.br/emails/Janeiro/saudeRespiratoria"
             text-decoration="none"

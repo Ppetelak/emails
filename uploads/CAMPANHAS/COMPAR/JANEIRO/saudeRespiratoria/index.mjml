@@ -30,7 +30,7 @@
     <mj-section>
       <mj-column width="100%">
         <mj-image
-          src="https://mounthermon.com.br/emails/Janeiro/saudeRespiratoria/assets/hero.png"
+          src="https://comparadm.com.br/emails/Janeiro/saudeRespiratoria/assets/hero.png"
           alt=""
           padding="0"
         />
@@ -48,7 +48,7 @@
           align="center"
           font-size="36px"
           font-weight="bold"
-          color="#D57F1F"
+          color="#EC7400"
           padding="0"
         >
           saúde respiratória!
@@ -67,7 +67,7 @@
       <mj-group width="80%">
         <mj-column width="30%" vertical-align="middle">
           <mj-image
-            src="https://mounthermon.com.br/emails/Janeiro/saudeRespiratoria/assets/icon1.png"
+            src="https://comparadm.com.br/emails/Janeiro/saudeRespiratoria/assets/icon1.png"
             alt=""
             padding="0"
             width="120px"
@@ -87,7 +87,7 @@
       <mj-group width="80%">
         <mj-column padding="20px 0" width="30%" vertical-align="middle">
           <mj-image
-            src="https://mounthermon.com.br/emails/Janeiro/saudeRespiratoria/assets/icon2.png"
+            src="https://comparadm.com.br/emails/Janeiro/saudeRespiratoria/assets/icon2.png"
             alt=""
             padding="0"
             width="120px"
@@ -104,7 +104,7 @@
       <mj-group width="80%">
         <mj-column width="30%" vertical-align="middle">
           <mj-image
-            src="https://mounthermon.com.br/emails/Janeiro/saudeRespiratoria/assets/icon3.png"
+            src="https://comparadm.com.br/emails/Janeiro/saudeRespiratoria/assets/icon3.png"
             alt=""
             padding="0"
             width="120px"
@@ -127,12 +127,12 @@
       <mj-column width="100%">
         <mj-image
           padding="40px"
-          src="https://www.mounthermon.com.br/emails/commonAssets/logo-color.png"
+          src="https://www.comparadm.com.br/emails/commonAssets/logo-color.png"
           alt=""
           width="180px"
         />
         <mj-image
-          src="https://www.mounthermon.com.br/emails/commonAssets/ANS.png"
+          src="https://www.comparadm.com.br/emails/commonAssets/ANS.png"
           alt=""
           padding="5px"
           width="120px"
@@ -140,9 +140,9 @@
         />
       </mj-column>
       <mj-column>
-        <mj-text align="center" color="#FFF" font-size="12px">
+        <mj-text align="center" color="#0e0e0e" font-size="12px">
           <a
-            href="https://mounthermon.com.br/emails/Janeiro/saudeRespiratoria"
+            href="https://comparadm.com.br/emails/Janeiro/saudeRespiratoria"
             text-decoration="none"
             >Caso não esteja conseguindo vizualizar o email,
             <b> clique aqui e visualize no navegador </b>

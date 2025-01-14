@@ -31,7 +31,7 @@
       <mj-column width="100%">
         <mj-text
           align="center"
-          color="#213376"
+          color="#3B48A2"
           line-height="1.0"
           font-size="36px"
           padding="20px 0 0"
@@ -42,20 +42,20 @@
           align="center"
           font-size="36px"
           font-weight="bold"
-          color="#D57F1F"
+          color="#EC7400"
           padding="0 0 30px"
         >
           um novo hábito!
         </mj-text>
         <mj-image
-          src="https://mounthermon.com.br/emails/Janeiro/atividadeFisica/assets/hero.png"
+          src="https://comparadm.com.br/emails/Janeiro/atividadeFisica/assets/hero.png"
           alt=""
           padding="0"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#213376">
+    <mj-section background-color="#3B48A2">
       <mj-column width="85%">
         <mj-text
           align="center"
@@ -89,7 +89,7 @@
     </mj-section>
 
     <mj-section padding="30px">
-      <mj-column background-color="#D57F1F" border-radius="20px" width="80%">
+      <mj-column background-color="#EC7400" border-radius="20px" width="80%">
         <mj-text
           align="center"
           padding="20px"
@@ -108,12 +108,12 @@
       <mj-column width="100%">
         <mj-image
           padding="40px"
-          src="https://www.mounthermon.com.br/emails/commonAssets/logo-color.png"
+          src="https://www.comparadm.com.br/emails/commonAssets/logo-color.png"
           alt=""
           width="180px"
         />
         <mj-image
-          src="https://www.mounthermon.com.br/emails/commonAssets/ANS.png"
+          src="https://www.comparadm.com.br/emails/commonAssets/ANS.png"
           alt=""
           padding="5px"
           width="120px"
@@ -123,7 +123,7 @@
       <mj-column>
         <mj-text align="center" color="#5e5e5e" font-size="12px">
           <a
-            href="https://mounthermon.com.br/emails/Janeiro/atividadeFisica"
+            href="https://comparadm.com.br/emails/Janeiro/atividadeFisica"
             text-decoration="none"
             >Caso não esteja conseguindo vizualizar o email,
             <b> clique aqui e visualize no navegador </b>
