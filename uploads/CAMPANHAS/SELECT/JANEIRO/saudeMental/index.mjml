@@ -69,7 +69,7 @@
           padding="0"
         />
       </mj-column>
-      <mj-column padding="20px 0 0" width="70%">
+      <mj-column padding="20px 0" width="70%">
         <mj-text align="center">
           No mês da conscientização sobre saúde mental, reforçamos a importância
           dos cuidados emocionais e de uma mente saudável.
@@ -135,7 +135,7 @@
           <a
             href="https://www.selectoperadora.com.br/emails/janeiro/saudeMental/"
             text-decoration="none"
-            >Caso não esteja conseguindo vizualizar o email,
+            >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui e visualize no navegador </b>
           </a>
         </mj-text>
