@@ -92,10 +92,10 @@
           <br />
           completo e se surpreenda!
         </mj-text>
-        <mj-button 
-                   background-color= "#2cb4b3"
-                   href= "https://classeadministradora.com.br/flipbook/a-importancia-do-plano-odontologico/"
-                   > 
+        <mj-button
+          background-color="#2cb4b3"
+          href="https://classeadministradora.com.br/flipbook/a-importancia-do-plano-odontologico/"
+        >
           Clique aqui para ler
         </mj-button>
         <mj-image
@@ -110,7 +110,7 @@
           <a
             href="https://www.classeadministradora.com.br/emails/planoOdonto/"
             text-decoration="none"
-            >Caso não esteja conseguindo vizualizar o email,
+            >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui e visualize no navegador </b>
           </a>
         </mj-text>
