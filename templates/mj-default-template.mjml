@@ -3,7 +3,7 @@
     <mj-title></mj-title>
 
     <mj-attributes>
-      <mj-section padding="0"></mj-section>
+      <mj-section background-color="#f8fafc" padding="0"></mj-section>
       <mj-column width="100%" padding="0"></mj-column>
       <mj-text
         font-family="Roboto, 'Open Sans', sans-serif"
@@ -22,7 +22,7 @@
     <mj-all font-family="Roboto" />
 
     <mj-style inline="inline">
-      a { color: inherit; text-decoration: none } span { color: red;}
+      a { color: inherit; text-decoration: none }
     </mj-style>
   </mj-head>
 
@@ -31,8 +31,8 @@
       <mj-column width="100%">
         <mj-image src="" alt="" padding="5px" width="100px" align="center" />
       </mj-column>
-      <mj-column background-color="#6E4FEB">
-        <mj-text align="center" color="#FFF" font-size="12px">
+      <mj-column background-color="#f8fafc">
+        <mj-text align="center" color="#5e5e5e" font-size="12px">
           <a href="" text-decoration="none"
             >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui e visualize no navegador </b>
