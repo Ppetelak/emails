@@ -1,0 +1,135 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section padding="0" background-color="#3C417D"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Inter, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="white"
+        line-height="1.2"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Inter"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Inter" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none } span { color: red;}
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding-top="40px">
+      <mj-column width="80%">
+        <mj-image
+          src="https://classeadministradora.com.br/emails/Janeiro/verao/assets/hero.png"
+          alt=""
+          padding-bottom="30px"
+          width="100px"
+        />
+
+        <mj-text align="center" font-size="26px"> Neste verão, </mj-text>
+        <mj-text
+          align="center"
+          font-size="36px"
+          font-weight="bold"
+          color="#2CB4B3"
+          padding="0"
+        >
+          esteja protegido!
+        </mj-text>
+
+        <mj-text align="center" padding="20px">
+          <b> Grandes períodos de exposição ao sol </b>
+          podem causar danos e complicações à sua pele, por isso, é importante
+          tomar alguns cuidados antes de sair de casa:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="20px">
+      <mj-group width="68%">
+        <mj-column width="50%">
+          <mj-image
+            src="https://classeadministradora.com.br/emails/Janeiro/verao/assets/Icon1.png"
+            alt=""
+          />
+          <mj-text align="center" font-weight="bold">
+            Utilize o protetor solar
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image
+            src="https://classeadministradora.com.br/emails/Janeiro/verao/assets/Icon2.png"
+            alt=""
+          />
+          <mj-text align="center" font-weight="bold">
+            Proteja a cabeça utilizando chapéu de abas largas
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="68%">
+        <mj-column padding-top="20px" width="50%">
+          <mj-image
+            src="https://classeadministradora.com.br/emails/Janeiro/verao/assets/Icon3.png"
+            alt=""
+          />
+          <mj-text align="center" font-weight="bold">
+            Hidrate a pele diariamente
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%" padding-top="20px">
+          <mj-image
+            src="https://classeadministradora.com.br/emails/Janeiro/verao/assets/Icon4.png"
+            alt=""
+          />
+          <mj-text align="center" font-weight="bold">
+            Evite os horários de radiação intensa (entre 10 e 16 h)
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section
+      css-class="Footer"
+      background-color="#3C417D"
+      padding="20px 0 0 0"
+    >
+      <mj-column width="100%">
+        <mj-image
+          padding="40px"
+          src="https://www.classeadministradora.com.br/emails/commonAssets
+/logo.png"
+          alt=""
+          width="200px"
+        />
+        <mj-image
+          src="https://www.classeadministradora.com.br/emails/commonAssets/ANS.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#FFF" font-size="12px">
+          <a
+            href="https://classeadministradora.com.br/emails/Janeiro/verao"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
