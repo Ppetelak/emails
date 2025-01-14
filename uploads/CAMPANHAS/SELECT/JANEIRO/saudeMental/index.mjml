@@ -1,0 +1,145 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#eff6ff" padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Roboto, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#707070"
+        line-height="1.2"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Roboto" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none } span { color: red;}
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding-bottom="30px">
+      <mj-group width="80%">
+        <mj-column
+          width="15%"
+          background-color="#6E4FED"
+          padding="60px 0 0"
+          border-radius="0 0 20px 20px"
+        >
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/janeiro/saudeMental/icon.png"
+            alt=""
+            width="40px"
+            padding="30px 0"
+          />
+        </mj-column>
+
+        <mj-column padding-top="40px" padding-left="30px" width="85%">
+          <mj-text font-weight="700" color="#6E4FED" font-size="36px">
+            Alerta para a sua <br />
+            Saúde Mental
+          </mj-text>
+
+          <mj-text
+            color="#6E4FED"
+            letter-spacing="3px"
+            font-size="20px"
+            font-weight="300"
+          >
+            JANEIRO BRANCO
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/janeiro/saudeMental/hero.png"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+      <mj-column padding="20px 0 0" width="70%">
+        <mj-text align="center">
+          No mês da conscientização sobre saúde mental, reforçamos a importância
+          dos cuidados emocionais e de uma mente saudável.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="40px 0">
+      <mj-column width="60%">
+        <mj-text
+          font-size="20px"
+          font-weight="bold"
+          color="#A1A1A1"
+          align="center"
+          padding-bottom="20px"
+        >
+          Hábitos que você pode seguir:
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="70%" border-radius="20px" background-color="#6E4FED">
+        <mj-text font-weight="bold" color="white" line-height="1.5">
+          <ul>
+            <li>Higiene do sono</li>
+            <li>Acompanhamento psicológico</li>
+            <li>Prática de exercícios</li>
+            <li>Afastamento das telas</li>
+            <li>Cultivar bons relacionamentos</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 40px">
+      <mj-column width="70%">
+        <mj-text font-size="20px" color="#A1A1A1" align="center">
+          <b> Não deixe o cuidado com a sua </b>
+          saúde passar em branco!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#BDE521" css-class="Footer" padding="0 0 0">
+      <mj-column padding="40px 0">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/commonAssets/logo-color.png"
+          alt=""
+          width="200px"
+        />
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/commonAssets/ANS.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#0e0e0e" font-size="12px">
+          <a
+            href="https://www.selectoperadora.com.br/emails/janeiro/saudeMental/"
+            text-decoration="none"
+            >Caso não esteja conseguindo vizualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
