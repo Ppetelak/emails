@@ -1,0 +1,237 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#f8fafc" padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Inter, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#707070"
+        line-height="1.4"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Inter"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Inter" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-hero background-color="#f8fafc" padding="40px 0">
+      <mj-image
+        width="100px"
+        src="https://www.mounthermon.com.br/emails/commonAssets/logo-color.png"
+        alt=""
+      />
+    </mj-hero>
+
+    <mj-section>
+      <mj-group>
+        <mj-column vertical-align="middle" padding-left="20%" width="65%">
+          <mj-text
+            font-size="36px"
+            padding="0"
+            font-weight="300"
+            color="#213376"
+          >
+            PREVINA-SE <br />
+            CONTRA AS <br />
+          </mj-text>
+
+          <mj-text
+            padding="0"
+            padding-bottom="20px"
+            color="#213376"
+            font-size="36px"
+            font-weight="900"
+          >
+            HEPATITES <br />
+            VIRAIS!
+          </mj-text>
+
+          <mj-text padding="0px 25% 0 0">
+            As hepatites virais são infecções que afetam o fígado e são causadas
+            por diferentes tipos de vírus.<br />
+            <br />
+            <b> Como a prevenção pode ser feita? </b>
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="35%">
+          <mj-image
+            src="https://www.mounthermon.com.br/emails/Fevereiro/hepatite/assets/hero.png"
+            padding="0"
+            alt=""
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="40px 0">
+      <mj-group width="80%">
+        <mj-column
+          padding="0 3%"
+          inner-border-radius="20px"
+          inner-background-color="#e2e8f0"
+          width="33%"
+        >
+          <mj-image
+            src="https://www.mounthermon.com.br/emails/Fevereiro/hepatite/assets/icons/icon1.png"
+            width="70px"
+            alt=""
+          />
+          <mj-text
+            font-size="12px"
+            font-weight="bold"
+            align="center"
+            color="#213376"
+          >
+            Vacinação contra hepatite
+          </mj-text>
+        </mj-column>
+
+        <mj-column
+          padding="0 3%"
+          inner-border-radius="20px"
+          inner-background-color="#e2e8f0"
+          width="33%"
+        >
+          <mj-image
+            src="https://www.mounthermon.com.br/emails/Fevereiro/hepatite/assets/icons/icon2.png"
+            width="70px"
+            alt=""
+          />
+          <mj-text
+            font-size="12px"
+            font-weight="bold"
+            align="center"
+            color="#213376"
+          >
+            Uso de preservativos
+          </mj-text>
+        </mj-column>
+
+        <mj-column
+          padding="0 3%"
+          inner-border-radius="20px"
+          inner-background-color="#e2e8f0"
+          width="33%"
+        >
+          <mj-image
+            src="https://www.mounthermon.com.br/emails/Fevereiro/hepatite/assets/icons/icon3.png"
+            width="70px"
+            alt=""
+          />
+          <mj-text
+            font-size="12px"
+            font-weight="bold"
+            align="center"
+            color="#213376"
+          >
+            Higiene pessoal correta
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="80%">
+        <mj-column
+          padding="3% 3% 0"
+          inner-border-radius="20px"
+          inner-background-color="#e2e8f0"
+          width="50%"
+        >
+          <mj-image
+            src="https://www.mounthermon.com.br/emails/Fevereiro/hepatite/assets/icons/icon4.png"
+            width="70px"
+            alt=""
+          />
+          <mj-text
+            font-size="12px"
+            font-weight="bold"
+            align="center"
+            color="#213376"
+          >
+            Não compartilhar objetos cortantes
+          </mj-text>
+        </mj-column>
+
+        <mj-column
+          padding="3% 3% 0"
+          inner-border-radius="20px"
+          inner-background-color="#e2e8f0"
+          width="50%"
+        >
+          <mj-image
+            src="https://www.mounthermon.com.br/emails/Fevereiro/hepatite/assets/icons/icon5.png"
+            width="70px"
+            alt=""
+          />
+          <mj-text
+            font-size="12px"
+            font-weight="bold"
+            align="center"
+            color="#213376"
+          >
+            Não compartilhar objetos cortantes
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="20px 0">
+      <mj-column width="80%">
+        <mj-text align="center">
+          Cuide da sua saúde, faça os exames preventivos e escolha hábitos que
+          favoreçam seu bem-estar. <br />
+          <b> A prevenção é um ato de amor próprio! </b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="20px 0 0">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="50px" mode="horizontal">
+          <mj-social-element
+            padding="0 20px 0 0"
+            src="https://www.mounthermon.com.br/emails/Fevereiro/hepatite/assets/icons/icon-ig.png"
+            href="https://www.instagram.com/mounthermonoficial/"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            src="https://www.mounthermon.com.br/emails/Fevereiro/hepatite/assets/icons/icon-fb.png"
+            href="https://www.facebook.com/mounthermonoficial/"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text color="#3B48A2" align="center">
+          <a href="https://mounthermon.com.br">mounthermon.com.br</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-image src="" alt="" padding="5px" width="100px" align="center" />
+      </mj-column>
+      <mj-column background-color="#f8fafc">
+        <mj-text align="center" color="#5e5e5e" font-size="12px">
+          <a
+            href="https://www.mounthermon.com.br/emails/Fevereiro/hepatite/"
+            text-decoration="none"
+            >Caso não esteja conseguindo visualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
