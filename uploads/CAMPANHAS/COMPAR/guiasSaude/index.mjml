@@ -94,6 +94,16 @@
           </b>
           e proteja a sua saúde!
         </mj-text>
+        <mj-button
+          padding="40px 0"
+          background-color="transparent"
+          border="2px solid white"
+          font-size="16px"
+          border-radius="20px"
+          href="https://mounthermon.com.br/flipbook/importancia-da-alimentacao-saudavel/"
+          font-weight="bold"
+          >Clique aqui para acessar
+        </mj-button>
 
         <mj-image
           padding="50px 0 0"

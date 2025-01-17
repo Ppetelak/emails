@@ -92,12 +92,12 @@
         </mj-text>
 
         <mj-button
-          padding-top="40px"
+          padding="40px 0"
           background-color="transparent"
           border="2px solid white"
           font-size="16px"
           border-radius="20px"
-          href="https://mounthermon.com.br/flipbook/importancia-da-alimentacao-saudavel/"
+          href="https://mounthermon.com.br/flipbook/gestao-de-doencas-cronicas/"
           font-weight="bold"
           >Clique aqui para acessar
         </mj-button>
