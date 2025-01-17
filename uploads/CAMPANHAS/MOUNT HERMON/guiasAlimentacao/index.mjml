@@ -86,6 +86,16 @@
           dicas de como implementar esses hábitos na sua vida!
         </mj-text>
 
+        <mj-button
+          background-color="transparent"
+          border="2px solid white"
+          font-size="16px"
+          border-radius="20px"
+          href="https://mounthermon.com.br/flipbook/importancia-da-alimentacao-saudavel/"
+          font-weight="bold"
+          >Clique aqui para acessar
+        </mj-button>
+
         <mj-image
           padding="50px 0 0"
           src="https://www.mounthermon.com.br/emails/guiasAlimentacao/assets/logo.png"
@@ -102,7 +112,7 @@
           alt=""
           padding="5px"
           width="100px"
-          align="left"
+          align="center"
         />
       </mj-column>
       <mj-column background-color="#9E6A21" width="100%">
