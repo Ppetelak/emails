@@ -30,7 +30,7 @@
     <mj-hero background-color="#f8fafc" padding="46px 0">
       <mj-image
         width="130px"
-        src="https://www.comparadm.com.br/emails/commonAssets/logo-color.png"
+        src="https://www.classeadministradora.com.br/emails/commonAssets/logo-color.png"
         alt=""
       />
     </mj-hero>
@@ -42,7 +42,7 @@
             font-size="36px"
             padding="0"
             font-weight="300"
-            color="#EC7400"
+            color="#2CB4B3"
           >
             PREVINA-SE <br />
             CONTRA AS <br />
@@ -51,7 +51,7 @@
           <mj-text
             padding="0"
             padding-bottom="20px"
-            color="#EC7400"
+            color="#2CB4B3"
             font-size="36px"
             font-weight="900"
           >
@@ -69,7 +69,7 @@
 
         <mj-column vertical-align="middle" width="35%">
           <mj-image
-            src="https://www.comparadm.com.br/emails/Fevereiro/hepatite/assets/hero.png"
+            src="https://www.classeadministradora.com.br/emails/Fevereiro/hepatite/assets/hero.png"
             padding="0"
             alt=""
           />
@@ -86,7 +86,7 @@
           width="33%"
         >
           <mj-image
-            src="https://www.comparadm.com.br/emails/Fevereiro/hepatite/assets/icons/icon1.png"
+            src="https://www.classeadministradora.com.br/emails/Fevereiro/hepatite/assets/icons/icon1.png"
             width="70px"
             alt=""
           />
@@ -94,7 +94,7 @@
             font-size="12px"
             font-weight="bold"
             align="center"
-            color="#EC7400"
+            color="#2CB4B3"
           >
             Vacinação contra hepatite
           </mj-text>
@@ -107,7 +107,7 @@
           width="33%"
         >
           <mj-image
-            src="https://www.comparadm.com.br/emails/Fevereiro/hepatite/assets/icons/icon2.png"
+            src="https://www.classeadministradora.com.br/emails/Fevereiro/hepatite/assets/icons/icon2.png"
             width="70px"
             alt=""
           />
@@ -115,7 +115,7 @@
             font-size="12px"
             font-weight="bold"
             align="center"
-            color="#EC7400"
+            color="#2CB4B3"
           >
             Uso de preservativos
           </mj-text>
@@ -128,7 +128,7 @@
           width="33%"
         >
           <mj-image
-            src="https://www.comparadm.com.br/emails/Fevereiro/hepatite/assets/icons/icon3.png"
+            src="https://www.classeadministradora.com.br/emails/Fevereiro/hepatite/assets/icons/icon3.png"
             width="70px"
             alt=""
           />
@@ -136,7 +136,7 @@
             font-size="12px"
             font-weight="bold"
             align="center"
-            color="#EC7400"
+            color="#2CB4B3"
           >
             Higiene pessoal correta
           </mj-text>
@@ -151,7 +151,7 @@
           width="50%"
         >
           <mj-image
-            src="https://www.comparadm.com.br/emails/Fevereiro/hepatite/assets/icons/icon4.png"
+            src="https://www.classeadministradora.com.br/emails/Fevereiro/hepatite/assets/icons/icon4.png"
             width="70px"
             alt=""
           />
@@ -159,7 +159,7 @@
             font-size="12px"
             font-weight="bold"
             align="center"
-            color="#EC7400"
+            color="#2CB4B3"
           >
             Não compartilhar objetos cortantes
           </mj-text>
@@ -172,7 +172,7 @@
           width="50%"
         >
           <mj-image
-            src="https://www.comparadm.com.br/emails/Fevereiro/hepatite/assets/icons/icon5.png"
+            src="https://www.classeadministradora.com.br/emails/Fevereiro/hepatite/assets/icons/icon5.png"
             width="70px"
             alt=""
           />
@@ -180,7 +180,7 @@
             font-size="12px"
             font-weight="bold"
             align="center"
-            color="#EC7400"
+            color="#2CB4B3"
           >
             Não compartilhar objetos cortantes
           </mj-text>
@@ -203,25 +203,27 @@
         <mj-social font-size="15px" icon-size="50px" mode="horizontal">
           <mj-social-element
             padding="0 20px 0 0"
-            src="https://www.comparadm.com.br/emails/commonAssets/icon-ig.png"
-            href="https://www.instagram.com/admcompar/"
+            src="https://www.classeadministradora.com.br/emails/commonAssets/icon-ig.png"
+            href="https://www.instagram.com/classeadm/"
           >
           </mj-social-element>
 
           <mj-social-element
-            src="https://www.comparadm.com.br/emails/commonAssets/icon-fb.png"
-            href="https://www.facebook.com/comparadm/"
+            src="https://www.classeadministradora.com.br/emails/commonAssets/icon-fb.png"
+            href="https://www.facebook.com/administradoraclasse/"
           >
           </mj-social-element>
         </mj-social>
         <mj-text color="#3B48A2" align="center">
-          <a href="https://comparadm.com.br">comparadm.com.br</a>
+          <a href="https://classeadministradora.com.br"
+            >classeadministradora.com.br</a
+          >
         </mj-text>
       </mj-column>
 
       <mj-column width="100%">
         <mj-image
-          src="https://www.comparadm.com.br/emails/commonAssets/ANS.png"
+          src="https://www.classeadministradora.com.br/emails/commonAssets/ANS.png"
           alt=""
           padding="20px 0"
           width="100px"
@@ -231,7 +233,7 @@
       <mj-column background-color="#f8fafc">
         <mj-text align="center" color="#5e5e5e" font-size="12px">
           <a
-            href="https://www.comparadm.com.br/emails/Fevereiro/hepatite/"
+            href="https://www.classeadministradora.com.br/emails/Fevereiro/hepatite/"
             text-decoration="none"
             >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui e visualize no navegador </b>

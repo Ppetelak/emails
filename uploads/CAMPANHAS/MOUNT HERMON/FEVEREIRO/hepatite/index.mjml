@@ -220,7 +220,13 @@
       </mj-column>
 
       <mj-column width="100%">
-        <mj-image src="" alt="" padding="5px" width="100px" align="center" />
+        <mj-image
+          src="https://www.mounthermon.com.br/emails/commonAssets/ANS.png"
+          alt=""
+          padding="20px 0"
+          width="100px"
+          align="center"
+        />
       </mj-column>
       <mj-column background-color="#f8fafc">
         <mj-text align="center" color="#5e5e5e" font-size="12px">
