@@ -27,7 +27,7 @@
   </mj-head>
 
   <mj-body>
-    <mj-section padding="10% 0">
+    <mj-section padding="0">
       <mj-group>
         <mj-column width="60%" vertical-align="middle">
           <mj-text
@@ -52,7 +52,7 @@
             JA
           </mj-text>
 
-          <mj-text align="left" font-size="18px" padding="0 20% 20%">
+          <mj-text align="left" font-size="18px" padding="0 20% 6%">
             Conscientização sobre
             <b> leucemia </b>
           </mj-text>
