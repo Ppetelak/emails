@@ -3,7 +3,7 @@
     <mj-title></mj-title>
 
     <mj-attributes>
-      <mj-section background-color="#213376" padding="0"></mj-section>
+      <mj-section background-color="#3B48A2" padding="0"></mj-section>
       <mj-column width="100%" padding="0"></mj-column>
       <mj-text
         font-family="Roboto, 'Open Sans', sans-serif"
@@ -30,7 +30,7 @@
     <mj-section padding="40px 0">
       <mj-column width="80%">
         <mj-text
-          color="#9E6A21"
+          color="#EC7400"
           font-size="64px"
           font-weight="300"
           letter-spacing=".3em"
@@ -48,7 +48,7 @@
           <mj-image
             padding="0"
             align="left"
-            src="https://mounthermon.com.br/emails/Fevereiro/cancer/hero.png"
+            src="https://comparadm.com.br/emails/Fevereiro/cancer/hero.png"
             alt=""
           />
         </mj-column>
@@ -90,7 +90,7 @@
       background-color="#f8fafc"
       css-class="Footer"
       padding="20px 0 0"
-     >
+    >
       <mj-column>
         <mj-social
           font-size="15px"
@@ -100,32 +100,32 @@
         >
           <mj-social-element
             padding="0 20px 0 0"
-            src="https://www.mounthermon.com.br/emails/commonAssets/icon-ig.png"
-            href="https://www.instagram.com/mounthermonoficial/"
+            src="https://www.comparadm.com.br/emails/commonAssets/icon-ig.png"
+            href="https://www.instagram.com/admcompar/"
           >
           </mj-social-element>
 
           <mj-social-element
-            src="https://www.mounthermon.com.br/emails/commonAssets/icon-fb.png"
-            href="https://www.facebook.com/mounthermonoficial/"
+            src="https://www.comparadm.com.br/emails/commonAssets/icon-fb.png"
+            href="https://www.facebook.com/comparadm/"
           >
           </mj-social-element>
         </mj-social>
 
         <mj-button
           padding="20px 0"
-          background-color="#213376"
+          background-color="#3B48A2"
           border-radius="20px"
           font-size="16px"
-          href="https://mounthermon.com.br"
+          href="https://comparadm.com.br"
         >
-          mounthermon.com.br
+          comparadm.com.br
         </mj-button>
       </mj-column>
 
       <mj-column width="100%">
         <mj-image
-          src="https://www.mounthermon.com.br/emails/commonAssets/logo-color.png"
+          src="https://www.comparadm.com.br/emails/commonAssets/logo-color.png"
           alt=""
           padding="40px 0 0"
           width="150px"
@@ -133,8 +133,9 @@
         />
 
         <mj-image
-          src="https://www.mounthermon.com.br/emails/commonAssets/ANS.png"
+          src="https://www.comparadm.com.br/emails/commonAssets/ANS.png"
           alt=""
+          padding="30px"
           width="100px"
           align="center"
         />
@@ -142,7 +143,7 @@
       <mj-column background-color="#f8fafc">
         <mj-text align="center" color="#5e5e5e" font-size="12px">
           <a
-            href="https://www.mounthermon.com.br/emails/Fevereiro/cancer/"
+            href="https://www.comparadm.com.br/emails/Fevereiro/cancer/"
             text-decoration="none"
             >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui e visualize no navegador </b>
