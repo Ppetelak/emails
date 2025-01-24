@@ -41,7 +41,7 @@
       />
     </mj-hero>
 
-    <mj-section padding="0">
+    <mj-section padding="0 0 10%">
       <mj-column width="80%">
         <mj-text align="center" font-weight="300" font-size="20px">
           MÊS DE
@@ -74,6 +74,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
     <mj-section>
       <mj-column width="100%">
         <mj-image
