@@ -1,0 +1,270 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#f8fafc" padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Source Sans 3, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#fff"
+        line-height="1.5"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Source Sans 3"
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+    />
+
+    <mj-all font-family="Source Sans 3" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none } .br_20-outlook{ border: 2px
+      solid white !important; }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .br_20{ border: 2px solid white !important; border-radius: 20px
+      !important;}
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-hero background-color="#f8fafc">
+      <mj-image
+        src="https://mountpay.com.br/img/logomountpay.png"
+        width="100px"
+        alt=""
+      />
+    </mj-hero>
+
+    <mj-section background-color="rgb(13, 17, 57)">
+      <mj-column width="100%">
+        <mj-image
+          src="https://mountpay.com.br/img/cabecalho1boasvindas.png"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10% 0" background-color="rgb(13, 17, 57)">
+      <mj-column width="80%">
+        <mj-text color="rgb(0, 227, 255)" font-weight="bold" align="center">
+          SEJA BEM VINDO AO MOUNT PAY
+        </mj-text>
+
+        <mj-text
+          color="#fff"
+          align="center"
+          line-height="21px"
+          font-size="14px"
+          padding="5%"
+        >
+          Nossa missão é zelar por um sistema financeiro sólido, eficiente e
+          competitivo, com agilidade e competência através da inclusão bancária
+          e da mobilidade.
+        </mj-text>
+
+        <mj-text color="rgb(0, 227, 255)" font-weight="bold" align="center">
+          O que oferecemos?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="rgb(13, 17, 57)">
+      <mj-group width="80%">
+        <mj-column vertical-align="top" padding="15% 0" width="33%">
+          <mj-image
+            src="https://mountpay.com.br/img/smartphone%20%282%29.png"
+            alt=""
+            padding="0"
+            width="20px"
+          />
+          <mj-text font-size="12px" padding="15% 0 0" align="center">
+            Pix rápido, seguro e efeciente
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="top" padding="15% 0" width="33%">
+          <mj-image
+            src="https://mountpay.com.br/img/credit-card.png"
+            alt=""
+            padding="0"
+            width="30px"
+          />
+          <mj-text font-size="12px" padding="18% 0 0" align="center">
+            Cartão Mount Pay
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="top" padding="15% 0" width="33%">
+          <mj-image
+            src="https://mountpay.com.br/img/qcodepgto.png"
+            alt=""
+            padding="0"
+            width="35px"
+          />
+          <mj-text font-size="12px" padding="15% 0 0" align="center">
+            Pagamento QCode
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="80%">
+        <mj-column vertical-align="top" padding="15% 0" width="33%">
+          <mj-image
+            src="https://mountpay.com.br/img/chat%20%281%29.png"
+            alt=""
+            padding="0"
+            width="30px"
+          />
+          <mj-text font-size="12px" padding="15% 0 0" align="center">
+            Suporte online
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="top" padding="12% 0" width="33%">
+          <mj-image
+            src="https://mountpay.com.br/img/manager.png"
+            alt=""
+            padding="0"
+            width="30px"
+          />
+          <mj-text font-size="12px" padding="12% 0 0" align="center">
+            Gerentes especializados
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="top" padding="14% 0" width="33%">
+          <mj-image
+            src="https://mountpay.com.br/img/customer-support.png"
+            alt=""
+            padding="0"
+            width="30px"
+          />
+          <mj-text font-size="12px" padding="10% 0 0" align="center">
+            Pagamento QCode
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="80%">
+        <mj-column vertical-align="top" padding="15% 0" width="33%">
+          <mj-image
+            src="https://mountpay.com.br/img/saco-de-dinheiro-em-dolares-na-mao.png"
+            alt=""
+            padding="0"
+            width="40px"
+          />
+          <mj-text font-size="12px" padding="13% 0 0" align="center">
+            Consórcio Nacional Mount Pay
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="top" padding="15% 0" width="33%">
+          <mj-image
+            src="https://mountpay.com.br/img/fatura.png"
+            alt=""
+            padding="0"
+            width="30px"
+          />
+          <mj-text font-size="12px" padding="12% 0 0" align="center">
+            Emissão de boletos
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="top" padding="20% 0" width="33%">
+          <mj-image
+            src="https://mountpay.com.br/img/Objeto%20Inteligente%20de%20Vetor.png"
+            alt=""
+            padding="0"
+            width="50px"
+          />
+          <mj-text font-size="12px" padding="22% 0 0" align="center">
+            Aplicativo próprio para transações seguras
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section
+      border-radius="0 0 60px 60px"
+      padding="5% 0 15%"
+      background-color="rgb(13, 17, 57)"
+    >
+      <mj-column width="80%">
+        <mj-text line-height="24px" font-size="14px" align="justify">
+          <b> Muito obrigado por escolher a Mount Pay, </b>
+          é um prazer tê-lo como cliente! E por isso, trazemos de forma
+          transparente e prática, vantagens que só você enquanto correntista
+          possui.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10% 0 5%">
+      <mj-column width="50%">
+        <mj-text line-height="30px" align="center" color="#333333">
+          <b> Ficou com alguma dúvida? </b>
+
+          <br />
+          Entre em contato:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="60%">
+        <mj-button
+          background-color="rgb(13, 17, 57)"
+          line-height="24px"
+          inner-padding="8px 20px"
+          href="https://api.whatsapp.com/send?phone=5541997730157"
+          border-radius="20px"
+          font-weight="bold"
+          color="#00e3ff"
+        >
+          <img
+            width="20px"
+            padding="0"
+            style="width: 24px; vertical-align: middle"
+            src="https://mountpay.com.br/emails/img/iconewpp.png"
+          />
+          &nbsp; (41) 9 9773-0157
+        </mj-button>
+        <mj-button
+          background-color="rgb(13, 17, 57)"
+          line-height="24px"
+          padding="5% 0 0"
+          inner-padding="8px 20px"
+          href="tel:0800 418 1000"
+          border-radius="20px"
+          font-weight="bold"
+          color="#00e3ff"
+        >
+          <img
+            width="20px"
+            style="width: 24px; vertical-align: middle"
+            src="https://mountpay.com.br/emails/img/iconetelefone.png"
+          />
+          &nbsp; 0800 418 1000 &nbsp; &nbsp;
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="60px 0 0 0">
+      <mj-column background-color="#f8fafc">
+        <mj-text align="center" color="#5e5e5e" font-size="12px">
+          <a href="" text-decoration="none"
+            >Caso não esteja conseguindo visualizar o email,
+            <b> clique aqui </b> e visualize no navegador
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
