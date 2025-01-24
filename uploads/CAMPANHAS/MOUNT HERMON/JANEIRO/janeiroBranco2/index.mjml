@@ -33,9 +33,15 @@
         alt=""
         width="80px"
       />
+      <mj-image
+        src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco2/icon0.png"
+        width="60px"
+        alt=""
+        padding="10% 0 5%"
+      />
     </mj-hero>
 
-    <mj-section padding="40px 0">
+    <mj-section padding="0">
       <mj-column width="80%">
         <mj-text align="center" font-weight="300" font-size="20px">
           MÊS DE
