@@ -9,7 +9,7 @@
         font-family="Inter, 'Open Sans', sans-serif"
         font-weight="400"
         font-size="16px"
-        color="#213376"
+        color="#3B48A2"
         line-height="1.5"
       />
     </mj-attributes>
@@ -29,12 +29,12 @@
   <mj-body>
     <mj-hero background-color="#f8fafc">
       <mj-image
-        src="https://www.mounthermon.com.br/emails/commonAssets/ANS.png"
+        src="https://www.comparadm.com.br/emails/commonAssets/ANS.png"
         alt=""
         width="80px"
       />
       <mj-image
-        src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco2/icon0.png"
+        src="https://www.comparadm.com.br/emails/Janeiro/janeiroBranco2/icon0.png"
         width="60px"
         alt=""
         padding="10% 0 5%"
@@ -50,7 +50,7 @@
         <mj-text
           font-weight="900"
           align="center"
-          color="#9E6A21"
+          color="#EC7400"
           font-size="40px"
           padding="0"
           line-height="1"
@@ -78,14 +78,14 @@
     <mj-section>
       <mj-column width="100%">
         <mj-image
-          src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco2/hero.png"
+          src="https://www.comparadm.com.br/emails/Janeiro/janeiroBranco2/hero.png"
           alt=""
           padding="0"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section padding="12% 0" background-color="#213376">
+    <mj-section padding="12% 0" background-color="#3B48A2">
       <mj-group>
         <mj-column vertical-align="middle" width="70%" padding="0 5% 0 10%">
           <mj-text color="white" align="justify">
@@ -101,7 +101,7 @@
         <mj-column vertical-align="middle" width="30%">
           <mj-image
             border-radius="20px 0 0 20px"
-            src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco2/img.png"
+            src="https://www.comparadm.com.br/emails/Janeiro/janeiroBranco2/img.png"
             padding="0"
             alt=""
           />
@@ -123,7 +123,7 @@
       <mj-group width="70%">
         <mj-column width="40%" vertical-align="middle">
           <mj-image
-            src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco2/icon1.png"
+            src="https://www.comparadm.com.br/emails/Janeiro/janeiroBranco2/icon1.png"
             width="60px"
             alt=""
             padding="0"
@@ -140,7 +140,7 @@
       <mj-group width="70%">
         <mj-column width="40%" padding="20%" vertical-align="middle">
           <mj-image
-            src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco2/icon2.png"
+            src="https://www.comparadm.com.br/emails/Janeiro/janeiroBranco2/icon2.png"
             width="60px"
             alt=""
             padding="0"
@@ -157,7 +157,7 @@
       <mj-group width="70%">
         <mj-column width="40%" vertical-align="middle">
           <mj-image
-            src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco2/icon3.png"
+            src="https://www.comparadm.com.br/emails/Janeiro/janeiroBranco2/icon3.png"
             width="60px"
             alt=""
             padding="0"
@@ -173,7 +173,7 @@
       <mj-group width="70%">
         <mj-column width="40%" padding="20%" vertical-align="middle">
           <mj-image
-            src="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco2/icon4.png"
+            src="https://www.comparadm.com.br/emails/Janeiro/janeiroBranco2/icon4.png"
             width="60px"
             alt=""
             padding="0"
@@ -193,7 +193,7 @@
 
         <mj-text
           align="center"
-          color="#9E6A21"
+          color="#EC7400"
           font-size="30px"
           font-weight="300"
         >
@@ -209,38 +209,38 @@
     <mj-section padding="0 0 5%" background-color="white">
       <mj-column width="100%">
         <mj-image
-          src="https://www.mounthermon.com.br/emails/commonAssets/logo-color.png"
+          src="https://www.comparadm.com.br/emails/commonAssets/logo-color.png"
           alt=""
           width="100px"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#213376" css-class="Footer" padding="0 0 0">
+    <mj-section background-color="#3B48A2" css-class="Footer" padding="0 0 0">
       <mj-column width="100%" padding="20px 0">
         <mj-social font-size="15px" icon-size="50px" mode="horizontal">
           <mj-social-element
             padding="0 20px 0 0"
-            src="https://www.mounthermon.com.br/emails/commonAssets/icon-ig.png"
-            href="https://www.instagram.com/mounthermonoficial/"
+            src="https://www.comparadm.com.br/emails/commonAssets/icon-ig.png"
+            href="https://www.instagram.com/admcompar/"
           >
           </mj-social-element>
 
           <mj-social-element
-            src="https://www.mounthermon.com.br/emails/commonAssets/icon-fb.png"
-            href="https://www.facebook.com/mounthermonoficial/"
+            src="https://www.comparadm.com.br/emails/commonAssets/icon-fb.png"
+            href="https://www.facebook.com/comparadm/"
           >
           </mj-social-element>
         </mj-social>
         <mj-text color="#fff" align="center">
-          <a href="https://mounthermon.com.br">mounthermon.com.br</a>
+          <a href="https://comparadm.com.br">comparadm.com.br</a>
         </mj-text>
       </mj-column>
 
       <mj-column>
         <mj-text align="center" color="#fefefe" font-size="12px">
           <a
-            href="https://www.mounthermon.com.br/emails/Janeiro/janeiroBranco2/"
+            href="https://www.comparadm.com.br/emails/Janeiro/janeiroBranco2/"
             text-decoration="none"
             >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui e visualize no navegador </b>
