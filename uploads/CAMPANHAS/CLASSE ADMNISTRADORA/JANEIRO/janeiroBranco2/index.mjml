@@ -1,0 +1,254 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#f8fafc" padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Inter, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#3C417D"
+        line-height="1.5"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Inter"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Inter" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-hero background-color="#f8fafc">
+      <mj-image
+        src="https://www.classeadministradora.com.br/emails/commonAssets/ANS.png"
+        alt=""
+        width="80px"
+      />
+      <mj-image
+        src="https://www.classeadministradora.com.br/emails/Janeiro/janeiroBranco2/icon0.png"
+        width="60px"
+        alt=""
+        padding="10% 0 5%"
+      />
+    </mj-hero>
+
+    <mj-section padding="0 0 10%">
+      <mj-column width="80%">
+        <mj-text align="center" font-weight="300" font-size="20px">
+          MÊS DE
+        </mj-text>
+
+        <mj-text
+          font-weight="900"
+          align="center"
+          color="#2CB4B3"
+          font-size="40px"
+          padding="0"
+          line-height="1"
+        >
+          CONSCIENTIZAÇÃO
+        </mj-text>
+
+        <mj-text align="center" font-weight="300" font-size="20px">
+          SOBRE A SAÚDE MENTAL
+        </mj-text>
+
+        <mj-text padding-top="50px" font-size="16px" align="justify">
+          A campanha do Janeiro Branco foi criada em 2014 pelo psicólogo
+          Leonardo Abrahão, em Uberlândia, Minas Gerais.
+        </mj-text>
+
+        <mj-text font-size="16px" align="justify">
+          Essa iniciativa foi criada com o objetivo de chamar atenção para a
+          importância do bem-estar psicológico e de reconhecer o momento de
+          pedir ajuda, se necessário.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.classeadministradora.com.br/emails/Janeiro/janeiroBranco2/hero.png"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="12% 0" background-color="#3C417D">
+      <mj-group>
+        <mj-column vertical-align="middle" width="70%" padding="0 5% 0 10%">
+          <mj-text color="white" align="justify">
+            A Organização Mundial da Saúde (OMS) apontou que 5,8% da população
+            brasileira, ou mais de 11 milhões de brasileiros sofrem com a
+            doença, sendo o país mais afetado da América Latina.
+            <br /><br />
+            No caso dos índices de transtorno de ansiedade, o Brasil ocupa o
+            primeiro lugar no ranking mundial, afetando mais de 18 milhões de
+            pessoas, ou 9,3% da população.
+          </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle" width="30%">
+          <mj-image
+            border-radius="20px 0 0 20px"
+            src="https://www.classeadministradora.com.br/emails/Janeiro/janeiroBranco2/img.png"
+            padding="0"
+            alt=""
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10% 0 5%">
+      <mj-column width="80%">
+        <mj-text align="justify" color="#808080">
+          Para preservar a saúde mental em meio a esses indicativos elevados da
+          presença de distúrbios mentais nos brasileiros, é preciso acrescentar
+          na rotina cuidados individuais, como:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 5%">
+      <mj-group width="70%">
+        <mj-column width="40%" vertical-align="middle">
+          <mj-image
+            src="https://www.classeadministradora.com.br/emails/Janeiro/janeiroBranco2/icon1.png"
+            width="60px"
+            alt=""
+            padding="0"
+          />
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle">
+          <mj-text font-weight="bold" padding="0 15% 0 0" font-size="12px">
+            Fazer exercícios regularmente, se alimentar de maneira saudável e
+            ter um sono adequado
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="70%">
+        <mj-column width="40%" padding="20%" vertical-align="middle">
+          <mj-image
+            src="https://www.classeadministradora.com.br/emails/Janeiro/janeiroBranco2/icon2.png"
+            width="60px"
+            alt=""
+            padding="0"
+          />
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle">
+          <mj-text font-weight="bold" padding="0 15% 0 0" font-size="12px">
+            Investir em métodos de autoconhecimento para uma vida mais autônoma
+            e autoconfiante
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="70%">
+        <mj-column width="40%" vertical-align="middle">
+          <mj-image
+            src="https://www.classeadministradora.com.br/emails/Janeiro/janeiroBranco2/icon3.png"
+            width="60px"
+            alt=""
+            padding="0"
+          />
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle">
+          <mj-text font-weight="bold" padding="0 15% 0 0" font-size="12px">
+            Ter hobbies terapêuticos, prazerosos e relaxantes
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="70%">
+        <mj-column width="40%" padding="20%" vertical-align="middle">
+          <mj-image
+            src="https://www.classeadministradora.com.br/emails/Janeiro/janeiroBranco2/icon4.png"
+            width="60px"
+            alt=""
+            padding="0"
+          />
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle">
+          <mj-text font-weight="bold" padding="0 15% 0 0" font-size="12px">
+            Saber equilibrar o tempo de trabalho com o pessoal
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="10% 0 5%" background-color="white">
+      <mj-column width="80%">
+        <mj-text font-weight="bold" align="center"> Janeiro Branco </mj-text>
+
+        <mj-text
+          align="center"
+          color="#2CB4B3"
+          font-size="30px"
+          font-weight="300"
+        >
+          <i>Apoie essa causa e incentive todos a fazê-lo!</i>
+        </mj-text>
+
+        <mj-text align="center" color="#808080" font-size="14px">
+          O que fazer pela saúde mental agora e sempre
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 5%" background-color="white">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.classeadministradora.com.br/emails/commonAssets/logo-color.png"
+          alt=""
+          width="150px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3C417D" css-class="Footer" padding="0 0 0">
+      <mj-column width="100%" padding="20px 0">
+        <mj-social font-size="15px" icon-size="50px" mode="horizontal">
+          <mj-social-element
+            padding="0 20px 0 0"
+            src="https://www.classeadministradora.com.br/emails/commonAssets/icon-ig.png"
+            href="https://www.instagram.com/classeadm/"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            src="https://www.classeadministradora.com.br/emails/commonAssets/icon-fb.png"
+            href="https://www.facebook.com/administradoraclasse/"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text color="#fff" align="center">
+          <a href="https://classeadministradora.com.br"
+            >classeadministradora.com.br</a
+          >
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text align="center" color="#fefefe" font-size="12px">
+          <a
+            href="https://www.classeadministradora.com.br/emails/Janeiro/janeiroBranco2/"
+            text-decoration="none"
+            >Caso não esteja conseguindo visualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
