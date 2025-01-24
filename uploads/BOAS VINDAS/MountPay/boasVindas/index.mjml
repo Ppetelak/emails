@@ -161,7 +161,7 @@
             width="40px"
           />
           <mj-text font-size="12px" padding="13% 0 0" align="center">
-            Consórcio Nacional Mount Pay
+            Consórcio Nacional <br />Mount Pay
           </mj-text>
         </mj-column>
 
