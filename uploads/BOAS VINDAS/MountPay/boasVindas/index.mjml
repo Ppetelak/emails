@@ -3,7 +3,7 @@
     <mj-title></mj-title>
 
     <mj-attributes>
-      <mj-section background-color="#f8fafc" padding="0"></mj-section>
+      <mj-section background-color="#fff" padding="0"></mj-section>
       <mj-column width="100%" padding="0"></mj-column>
       <mj-text
         font-family="Source Sans 3, 'Open Sans', sans-serif"
@@ -203,6 +203,88 @@
           transparente e prática, vantagens que só você enquanto correntista
           possui.
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10% 0 0">
+      <mj-column width="80%">
+        <mj-text color="#333333" align="center">
+          Além disso, você também conta com diversos benefícios pensados
+          exclusivamente para você!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10% 0 5%">
+      <mj-column background-color="#00e3ff" border-radius="20px" width="55%">
+        <mj-image
+          border-radius="20px 20px 0 0"
+          src="https://mountpay.com.br/emails/boas-vindas/telemedicina.jpg"
+          alt=""
+          padding="0"
+        />
+        <mj-text color="#333333" padding="5% 0" align="center" font-weight="">
+          Telemedicina
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="5% 0 5%">
+      <mj-column background-color="#0d1139" border-radius="20px" width="55%">
+        <mj-image
+          border-radius="20px 20px 0 0"
+          src="https://mountpay.com.br/emails/boas-vindas/assistencia.jpg"
+          alt=""
+          padding="0"
+        />
+        <mj-text color="#fff" padding="5% 0" align="center" font-weight="">
+          Assistência Funeral Familiar
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="5% 0 5%">
+      <mj-column background-color="#00e3ff" border-radius="20px" width="55%">
+        <mj-image
+          border-radius="20px 20px 0 0"
+          src="https://mountpay.com.br/emails/boas-vindas/seguro.jpg"
+          alt=""
+          padding="0"
+        />
+        <mj-text color="#333333" padding="5% 0" align="center" font-weight="">
+          Seguro Morte Acidental
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10% 0 5%">
+      <mj-group width="80%">
+        <mj-column vertical-align="middle" width="50%">
+          <mj-text padding="0" font-size="14px" align="right" color="#333333">
+            Para tudo isso ser possível, <br />contamos com parcerias
+            incríveis!<br />
+
+            Conheça alguns de nossos parceiros:
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="50%">
+          <mj-image
+            src="https://mountpay.com.br/img/partnership.png"
+            width="100px"
+            alt=""
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image
+          src="https://mountpay.com.br/img/logosjuntas.png"
+          padding="0"
+          alt=""
+        />
       </mj-column>
     </mj-section>
 
