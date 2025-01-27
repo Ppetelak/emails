@@ -259,7 +259,9 @@
     <mj-section css-class="Footer" padding="60px 0 0 0">
       <mj-column background-color="#f8fafc">
         <mj-text align="center" color="#5e5e5e" font-size="12px">
-          <a href="" text-decoration="none"
+          <a
+            href="https://mountpay.com.br/emails/boas-vindas/index.html"
+            text-decoration="none"
             >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui </b> e visualize no navegador
           </a>
