@@ -1,0 +1,200 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#fff" padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Roboto, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#707070"
+        line-height="1.5"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Roboto" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding="10% 0">
+      <mj-column width="90%">
+        <mj-text
+          align="center"
+          font-size="20px"
+          color="#6E4FED"
+          letter-spacing="4px"
+        >
+          MACAPÁ ESTÁ COMPLETANDO
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#6E4FED"
+          font-size="90px"
+          line-height=".8"
+          font-weight="900"
+        >
+          267 anos
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/aniversario-macapa/hero.png"
+          padding="0"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="8% 0">
+      <mj-column width="90%">
+        <mj-text font-size="20px" align="center">
+          No dia 4 de fevereiro, a cidade de
+          <b> Macapá </b>
+          celebra
+          <b> 267 anos </b>
+          de história, cultura e crescimento!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="2% 0 " background-color="#F6F6F6">
+      <mj-group width="90%">
+        <mj-column vertical-align="middle" width="30%">
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/aniversario-macapa/img1.png"
+            padding="0"
+            alt=""
+            border-radius="20px"
+          />
+        </mj-column>
+        <mj-column vertical-align="middle" width="70%">
+          <mj-text>
+            A capital, além de ser culturalmente rica, também é um lugar que
+            oferece inúmeras oportunidades para cuidar da saúde, manter o
+            bem-estar e viver a vida ao ar livre.
+            <b>
+              Que tal aproveitar o que a cidade tem a oferecer para melhorar sua
+              saúde e qualidade de vida?
+            </b>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="2% 0 ">
+      <mj-group width="90%">
+        <mj-column vertical-align="middle" width="70%">
+          <mj-text padding="0 10%" align="right">
+            Não deixe de conferir algumas dicas em nosso blog e descobrir como a
+            <b> Select </b> chegou para transformar a experiência de saúde em
+            <b> Macapá! </b>
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="30%">
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/aniversario-macapa/img1.png"
+            padding="0"
+            alt=""
+            border-radius="20px"
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section background-color="#BDE521">
+      <mj-column width="90%">
+        <mj-button
+          line-height="24px"
+          font-size="20px"
+          font-weight="bold"
+          padding="10%"
+          href="https://selectoperadora.com.br/blog/comemoramos-o-aniversario-de-macapa/"
+          background-color="#6E4FED"
+          border-radius="20px"
+        >
+          <img
+            src="https://www.selectoperadora.com.br/emails/aniversario-macapa/icon.png"
+            style="width: 30px; vertical-align: middle"
+          />
+          &nbsp; Clique aqui e leia o blog completo
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10% 0 0">
+      <mj-column width="90%">
+        <mj-social
+          font-size="15px"
+          padding="0"
+          inner-padding="20px"
+          icon-size="50px"
+        >
+          <mj-social-element
+            src="https://www.selectoperadora.com.br/emails/commonAssets/icon-ig.png"
+            href="https://www.instagram.com/select.saude/?hl=en"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            padding="0 20px 0 "
+            src="https://www.selectoperadora.com.br/emails/commonAssets/icon-fb.png"
+            href="https://www.facebook.com/people/Select-Sa%C3%BAde/61553724729889/"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            src="https://www.selectoperadora.com.br/emails/commonAssets/icon-yt.png"
+            href="https://www.youtube.com/@select_saude"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/commonAssets/logo-color.png"
+          alt=""
+          padding="8% 0 0"
+          width="300px"
+          align="center"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="10% 0 0">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/commonAssets/ANS.png"
+          alt=""
+          padding="10px"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+      <mj-column padding="1% 0" background-color="#6E4FEB">
+        <mj-text align="center" color="#fefefe" font-size="12px">
+          <a
+            href="https://www.selectoperadora.com.br/emails/aniversario-macapa"
+            text-decoration="none"
+            >Caso não esteja conseguindo visualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
