@@ -167,13 +167,13 @@
             <mj-social-element
               padding-right="20px"
               src="https://www.comparadm.com.br/emails/commonAssets/icon-ig.png"
-              href="https://www.instagram.com/comparadmoficial/"
+              href="https://www.instagram.com/admcompar/"
             >
             </mj-social-element>
 
             <mj-social-element
               src="https://www.comparadm.com.br/emails/commonAssets/icon-fb.png"
-              href="https://www.facebook.com/comparadmoficial/"
+              href="https://www.facebook.com/comparadm/"
             >
             </mj-social-element>
           </mj-social>
