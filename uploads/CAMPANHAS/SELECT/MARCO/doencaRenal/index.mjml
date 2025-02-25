@@ -1,0 +1,133 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#FFFAF7" padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Roboto, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#7D7D80"
+        line-height="1.5"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Roboto" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section>
+      <mj-group>
+        <mj-column padding="0 0 0 8%" vertical-align="middle" width="50%">
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/commonAssets/logo-color.png"
+            alt=""
+            width="150px"
+            align="left"
+            padding-bottom="10%"
+          />
+
+          <mj-text color="#6E4FEB" font-size="36px" font-weight="900">
+            Cuidando da sua saúde renal
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="50%">
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/marco/doencaRenal/hero.png"
+            padding="0"
+            alt=""
+          />
+        </mj-column>
+      </mj-group> </mj-section
+    >\
+
+    <mj-section padding="10% 0" background-color="rgb(242, 246, 205)">
+      <mj-column padding="0 0 5%" width="80%">
+        <mj-text align="center">
+          A conscientização sobre doenças renais é essencial para preservar a
+          saúde, e pequenas atitudes no dia a dia podem fazer toda a
+          diferença:</mj-text
+        >
+      </mj-column>
+
+      <mj-column
+        padding="2% 0"
+        border-radius="20px"
+        width="80%"
+        background-color="white"
+      >
+        <mj-text>
+          <ul>
+            <li>Reduzir a ingestão de sal e gorduras saturadas</li>
+            <li>Evitar o consumo excessivo de álcool e tabaco</li>
+            <li>Manter a pressão arterial e o diabetes sob controle</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="5% 0 0 0">
+      <mj-column width="80%">
+        <mj-text align="center">
+          Lembre-se: a saúde renal começa com escolhas mais saudáveis. Cuide dos
+          seus rins e proteja seu bem-estar!
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="90%" padding="5% 0">
+        <mj-social
+          font-size="15px"
+          padding="0"
+          inner-padding="20px"
+          icon-size="50px"
+        >
+          <mj-social-element
+            src="https://www.selectoperadora.com.br/emails/commonAssets/icon-ig.png"
+            href="https://www.instagram.com/select.saude/?hl=en"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            padding="0 20px 0 "
+            src="https://www.selectoperadora.com.br/emails/commonAssets/icon-fb.png"
+            href="https://www.facebook.com/people/Select-Sa%C3%BAde/61553724729889/"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/commonAssets/ANS.png"
+          alt=""
+          padding="2% 0"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+
+      <mj-column background-color="#f8fafc">
+        <mj-text align="center" color="#5e5e5e" font-size="12px">
+          <a
+            href="https://www.selectoperadora.com.br/emails/marco/doencaRenal"
+            text-decoration="none"
+            >Caso não esteja conseguindo visualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
