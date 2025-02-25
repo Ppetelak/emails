@@ -1,0 +1,178 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#6E4FEB" padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Roboto, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#FFF"
+        line-height="1.5"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Roboto" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-hero>
+      <mj-image
+        src="https://www.selectoperadora.com.br/emails/marco/hero.png"
+        alt=""
+        padding="0"
+      />
+    </mj-hero>
+
+    <mj-section>
+      <mj-column padding="5% 0" width="80%">
+        <mj-text
+          color="#C3B4F6"
+          font-weight="900"
+          font-size="52px"
+          align="center"
+          padding="0"
+        >
+          MARÇO LILÁS
+        </mj-text>
+
+        <mj-text
+          font-weight="bold"
+          align="center"
+          padding="0 0 10%"
+          color="#C3B4F6"
+          font-size="24px"
+        >
+          e a importância da prevenção!
+        </mj-text>
+
+        <mj-text font-size="20px" padding="0 8% 5%" align="center"
+          >O mês de março reforça a conscientização sobre o câncer do colo do
+          útero, que pode ser evitado com atitudes simples, como:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 5% 8% ">
+      <mj-group width="70%">
+        <mj-column vertical-align="middle" width="20%">
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/marco/icon1.png"
+            alt=""
+            padding="0"
+          />
+        </mj-column>
+        <mj-column vertical-align="middle" width="80%">
+          <mj-text padding="0 0 0 10%" font-size="16px">
+            Exame de Papanicolau
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="70%">
+        <mj-column vertical-align="middle" width="20%">
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/marco/icon2.png"
+            alt=""
+            padding="0"
+          />
+        </mj-column>
+        <mj-column padding="5% 0" vertical-align="middle" width="80%">
+          <mj-text padding="0 0 0 10%" font-size="16px">
+            Vacina contra o HPV - disponível gratuitamente em Unidades Básicas
+            de Saúde (UBS) para meninas de 9 a 14 anos e meninos de 11 a 14 anos
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="70%">
+        <mj-column vertical-align="middle" width="20%">
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/marco/icon3.png"
+            alt=""
+            padding="0"
+          />
+        </mj-column>
+        <mj-column vertical-align="middle" width="80%">
+          <mj-text padding="0 0 0 10%" font-size="16px">
+            Consultar um ginecologista regularmente 
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section
+      css-class="Footer"
+      background-color="#4D38A3"
+      padding="5% 0 0 0"
+    >
+      <mj-column width="70%">
+        <mj-text font-size="20px" align="center">
+          Aproveite o Março Lilás para realizar seus exames preventivos!
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="90%" padding="5% 0">
+        <mj-social
+          font-size="15px"
+          padding="0"
+          inner-padding="20px"
+          icon-size="50px"
+        >
+          <mj-social-element
+            src="https://www.selectoperadora.com.br/emails/commonAssets/icon-ig-2.png"
+            href="https://www.instagram.com/select.saude/?hl=en"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            padding="0 20px 0 "
+            src="https://www.selectoperadora.com.br/emails/commonAssets/icon-fb-2.png"
+            href="https://www.facebook.com/people/Select-Sa%C3%BAde/61553724729889/"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/commonAssets/logo.png"
+          alt=""
+          padding="5px"
+          width="200px"
+          align="center"
+        />
+
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/commonAssets/ANS.png"
+          alt=""
+          padding="2% 0"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+
+      <mj-column background-color="#f8fafc">
+        <mj-text align="center" color="#5e5e5e" font-size="12px">
+          <a
+            href="https://www.selectoperadora.com.br/emails/marco"
+            text-decoration="none"
+            >Caso não esteja conseguindo visualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
