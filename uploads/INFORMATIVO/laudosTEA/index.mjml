@@ -1,0 +1,149 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+
+    <mj-attributes>
+      <mj-section background-color="#f8fafc" padding="0"></mj-section>
+      <mj-column width="100%" padding="0"></mj-column>
+      <mj-text
+        font-family="Roboto, 'Open Sans', sans-serif"
+        font-weight="400"
+        font-size="16px"
+        color="#707070"
+        line-height="1.5"
+      />
+    </mj-attributes>
+
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+
+    <mj-all font-family="Roboto" />
+
+    <mj-style inline="inline">
+      a { color: inherit; text-decoration: none }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-section background-color="#4D38A3" padding="10% 0">
+      <mj-column padding="0 0 20%" width="50%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/commonAssets/logo.png"
+          padding="0"
+          width="150px"
+          alt=""
+        />
+      </mj-column>
+
+      <mj-group width="90%">
+        <mj-column vertical-align="middle" width="50%">
+          <mj-text
+            font-size="20px"
+            line-height="1.2"
+            color="white"
+            align="right"
+            padding-right="0"
+          >
+            <span style="font-weight: bold; color: #bde521">
+              Novas regras
+            </span>
+            para validação e Requisitos para Laudos e Planos Terapêuticos
+          </mj-text>
+        </mj-column>
+
+        <mj-column vertical-align="middle" width="50%">
+          <mj-image
+            padding="0"
+            src="https://www.selectoperadora.com.br/emails/informativo/laudosTEA/icon.png"
+            alt=""
+            width="180px"
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-group width="100%">
+        <mj-column vertical-align="middle" width="50%">
+          <mj-image
+            src="https://www.selectoperadora.com.br/emails/informativo/laudosTEA/hero.png"
+            padding="0"
+            alt=""
+          />
+        </mj-column>
+        <mj-column vertical-align="middle" width="50%">
+          <mj-text>
+            Para garantir a qualidade e a eficiência no atendimento às crianças
+            diagnosticadas com
+
+            <b> Transtorno do Espectro Autista (TEA), </b>
+            a partir de
+            <b> 01 de maio de 2025 </b>
+
+            será obrigatória a apresentação de laudos e planos terapêuticos
+            atualizados a cada 6 meses.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="8% 0" background-color="#6E4FEB">
+      <mj-column width="80%">
+        <mj-text color="white" align="center">
+          A exigência de documentação atualizada contribui para o acompanhamento
+          contínuo da evolução clínica dos pacientes, revisão periódica das
+          necessidades terapêuticas, além de proporcionar transparência e
+          segurança no uso dos recursos disponibilizados.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 10%">
+      <mj-column width="60%">
+        <mj-text font-size="10px" align="center" color="#878484">
+          Essa medida está em conformidade com a Resolução Normativa nº 465/2021
+          da Agência Nacional de Saúde Suplementar (ANS).
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="80%">
+        <mj-button
+          background-color="#BDE521"
+          border-radius="50px"
+          font-weight="bold"
+          color="#6E4FEB"
+          font-size="24px"
+          href="https://selectoperadora.com.br/blog/comunicado-importante-alteracao-na-validade-e-requisitos-para-laudos-e-planos-terapeuticos/"
+        >
+          Veja mais detalhes
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="Footer" padding="60px 0 0 0">
+      <mj-column width="100%">
+        <mj-image
+          src="https://www.selectoperadora.com.br/emails/commonAssets/ANS.png"
+          alt=""
+          padding="5px"
+          width="100px"
+          align="center"
+        />
+      </mj-column>
+      <mj-column background-color="#f8fafc">
+        <mj-text align="center" color="#5e5e5e" font-size="12px">
+          <a
+            href="https://www.selectoperadora.com.br/emails/informativo/laudosTEA"
+            text-decoration="none"
+            >Caso não esteja conseguindo visualizar o email,
+            <b> clique aqui e visualize no navegador </b>
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
