@@ -69,6 +69,7 @@
             color="#6E4FED"
             padding="10px"
             align="right"
+            inner-padding="10px 0"
             width="120px"
           >
             Sarampo
@@ -79,6 +80,7 @@
             border-radius="20px"
             color="#6E4FED"
             padding="10px"
+            inner-padding="10px 0"
             width="120px"
           >
             Hepatite B
@@ -92,6 +94,7 @@
             color="#6E4FED"
             padding="10px"
             align="left"
+            inner-padding="10px 0"
             width="120px"
           >
             Tétano
@@ -102,6 +105,7 @@
             color="#6E4FED"
             padding="10px"
             align="left"
+            inner-padding="10px 0"
             width="120px"
           >
             Meningite
