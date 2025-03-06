@@ -64,11 +64,11 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0 0 5% 8% ">
+    <mj-section padding="0 0 8% 8% ">
       <mj-group width="70%">
         <mj-column vertical-align="middle" width="20%">
           <mj-image
-            src="https://www.selectoperadora.com.br/emails/marco/icon1.png"
+            src="https://www.selectoperadora.com.br/emails/marco/marcoLilas/icon1.png"
             alt=""
             padding="0"
           />
@@ -83,7 +83,7 @@
       <mj-group width="70%">
         <mj-column vertical-align="middle" width="20%">
           <mj-image
-            src="https://www.selectoperadora.com.br/emails/marco/icon2.png"
+            src="https://www.selectoperadora.com.br/emails/marco/marcoLilas/icon2.png"
             alt=""
             padding="0"
           />
@@ -99,7 +99,7 @@
       <mj-group width="70%">
         <mj-column vertical-align="middle" width="20%">
           <mj-image
-            src="https://www.selectoperadora.com.br/emails/marco/icon3.png"
+            src="https://www.selectoperadora.com.br/emails/marco/marcoLilas/icon3.png"
             alt=""
             padding="0"
           />
