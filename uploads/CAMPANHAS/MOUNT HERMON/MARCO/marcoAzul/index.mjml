@@ -102,8 +102,8 @@
 
     <mj-section>
       <mj-column border-radius="20px" background-color="#C07D2B" width="80%">
-        <mj-text font-weight="500" color="#FFF" align="center" padding="1% 0">
-          Realize seus exames de rotina e proteja seu bem-estar! 
+        <mj-text font-weight="500" color="#FFF" align="center" padding="1% 4%">
+          Realize seus exames de rotina e proteja seu bem-estar!
         </mj-text>
       </mj-column>
     </mj-section>
