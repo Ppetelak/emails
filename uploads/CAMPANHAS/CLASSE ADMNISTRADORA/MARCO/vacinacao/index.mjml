@@ -27,121 +27,71 @@
   </mj-head>
 
   <mj-body>
-    <mj-section padding="8% 0">
-      <mj-column width="100%">
-        <mj-image
-          src="https://www.classeadministradora.com.br/emails/Marco/diaDoRim/icon.png"
-          padding="0"
-          width="100px"
-          alt=""
-        />
-      </mj-column>
-    </mj-section>
-
     <mj-section padding="0">
-      <mj-column
-        background-color="#213376"
-        width="100%"
-        border-radius="20px 20px 0 0"
-        padding="5% 0"
-      >
-        <mj-text
-          align="center"
-          font-weight="300"
-          color="white"
-          font-size="25px"
-          padding="0"
-          letter-spacing=".4em"
-          line-height="1"
-        >
-          13 DE MARÇO
-        </mj-text>
-        <mj-text
-          align="center"
-          line-height="1"
-          font-weight="bold"
-          color="white"
-          font-size="30px"
-        >
-          Dia Mundial do Rim
-        </mj-text>
-      </mj-column>
-
-      <mj-column width="100%">
-        <mj-image
-          src="https://www.classeadministradora.com.br/emails/Marco/diaDoRim/hero.png"
-          padding="0"
-          alt=""
-        />
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding="10% 0">
-      <mj-group width="80%">
-        <mj-column vertical-align="middle" width="50%">
-          <mj-text color="#213376" font-size="28px" align="right">
-            Conheça a importância da
-            <b> saúde renal </b>
-          </mj-text>
+      <mj-group>
+        <mj-column vertical-align="middle" width="40%">
+          <mj-image
+            src="https://www.classeadministradora.com.br/emails/Marco/vacinacao/hero.png"
+            padding="0"
+            alt=""
+          />
         </mj-column>
-        <mj-column vertical-align="middle" width="50%">
-          <mj-text color="#383838">
-            A conscientização sobre
-            <b> doenças renais </b>
 
-            é importante para prevenir o desenvolvimento de problemas nos rins e
-            promover a saúde.
+        <mj-column padding-left="8%" vertical-align="middle" width="50%">
+          <mj-image
+            src="https://www.classeadministradora.com.br/emails/Marco/vacinacao/icon.png"
+            width="40px"
+            align="left"
+            alt=""
+          />
+
+          <mj-text
+            color="#3C417D"
+            font-weight="300"
+            padding-bottom="0"
+            letter-spacing=".3em"
+          >
+            UM FUTURO PROTEGIDO
+          </mj-text>
+          <mj-text
+            color="#3C417D"
+            padding-top="0"
+            font-weight="BOLD"
+            font-size="36px"
+            line-height="1"
+          >
+            começa pela vacinação!
           </mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
 
-    <mj-section padding="0 0 5%">
-      <mj-column
-        background-color="#2CB4B3"
-        border-radius="30px 30px 0 0 "
-        width="80%"
-      >
-        <mj-text
-          align="center"
-          font-size="24px"
-          font-weight="bold"
-          color="white"
-        >
-          Que medidas você pode adotar?
-        </mj-text>
-      </mj-column>
+    <mj-section
+      padding="0"
+      background-url="https://www.classeadministradora.com.br/emails/Marco/vacinacao/bg.png"
+      background-size="cover"
+    >
+      <mj-column padding="20% 10%" width="100%">
+        <mj-text color="white" align="center">
+          Manter a carteira de vacinação atualizada é indispensável para a
+          proteção contra doenças infecciosas graves, como:
+          <br />
 
-      <mj-column
-        width="80%"
-        background-color="#213376"
-        border-radius="0 0 30px 30px"
-      >
-        <mj-text color="white">
-          <ul>
-            <li><b>Diminuir</b> o consumo de sal e gorduras saturadas;</li>
-
-            <li>
-              <b> Evitar </b>
-
-              o consumo excessivo de álcool e tabaco;
-            </li>
-
-            <li>
-              <b> Controlar </b>
-
-              a pressão arterial e o diabetes.
-            </li>
-          </ul>
+          <b> sarampo, hepatite B, tétano e meningite. </b>
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0 0 10%">
-      <mj-column width="80%">
-        <mj-text align="center" color="#383838" font-size="16px">
-          A saúde renal começa com
-          <b> escolhas conscientes! </b>
+    <mj-section>
+      <mj-column width="70%">
+        <mj-text font-size="20px" color="#3E3E3E" align="center">
+          Ao se vacinar, você ajuda a criar uma
+
+          <i>
+            <b> comunidade mais segura e protegida, </b>
+          </i>
+
+          contribuindo para o bem-estar coletivo!
         </mj-text>
       </mj-column>
     </mj-section>
@@ -171,7 +121,7 @@
             mode="horizontal"
             padding="0"
             align="left"
-            >
+          >
             <mj-social-element
               padding-right="20px"
               src="https://www.classeadministradora.com.br/emails/commonAssets/icon-ig.png"
@@ -197,7 +147,7 @@
       <mj-column padding="5% 0 0">
         <mj-text align="center" color="#fefefe" font-size="12px">
           <a
-            href="https://www.classeadministradora.com.br/emails/Marco/diaDoRim/"
+            href="https://www.classeadministradora.com.br/emails/Marco/vacinacao/"
             text-decoration="none"
             >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui e visualize no navegador </b>
