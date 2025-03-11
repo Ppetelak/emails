@@ -27,7 +27,7 @@
   </mj-head>
 
   <mj-body>
-    <mj-section background-color="#213376" full-width padding="10% 0 0">
+    <mj-section background-color="#3C417D" full-width padding="10% 0 0">
       <mj-column width="80%">
         <mj-text
           color="white"
@@ -57,7 +57,7 @@
 
       <mj-column width="100%">
         <mj-image
-          src="https://www.mounthermon.com.br/emails/Marco/marcoAzul/hero1.png"
+          src="https://www.classeadministradora.com.br/emails/Marco/marcoAzul/hero1.png"
           padding="0"
           alt=""
         />
@@ -68,7 +68,7 @@
       <mj-group>
         <mj-column vertical-align="middle" width="50%">
           <mj-image
-            src="https://www.mounthermon.com.br/emails/Marco/marcoAzul/img.png"
+            src="https://www.classeadministradora.com.br/emails/Marco/marcoAzul/img.png"
             padding="0"
             alt=""
           />
@@ -76,7 +76,7 @@
 
         <mj-column vertical-align="top" width="50%" padding="0 5%">
           <mj-image
-            src="https://www.mounthermon.com.br/emails/Marco/marcoAzul/icon.png"
+            src="https://www.classeadministradora.com.br/emails/Marco/marcoAzul/icon.png"
             padding="10%"
             width="100px"
             align="right"
@@ -101,7 +101,7 @@
     </mj-section>
 
     <mj-section>
-      <mj-column border-radius="20px" background-color="#C07D2B" width="80%">
+      <mj-column border-radius="20px" background-color="#2CB4B3" width="80%">
         <mj-text font-weight="500" color="#FFF" align="center" padding="1% 4%">
           Realize seus exames de rotina e proteja seu bem-estar!
         </mj-text>
@@ -111,11 +111,11 @@
     <mj-section padding="5% 0">
       <mj-column width="35%">
         <mj-image
-          src="https://www.mounthermon.com.br/emails/commonAssets/logo-color.png"
+          src="https://www.classeadministradora.com.br/emails/commonAssets/logo-color.png"
           alt=""
         />
         <mj-image
-          src="https://www.mounthermon.com.br/emails/commonAssets/ANS.png"
+          src="https://www.classeadministradora.com.br/emails/commonAssets/ANS.png"
           alt=""
           padding="5px"
           width="100px"
@@ -124,7 +124,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#213376" css-class="Footer" padding="5% 0 0">
+    <mj-section background-color="#3C417D" css-class="Footer" padding="5% 0 0">
       <mj-group width="90%">
         <mj-column vertical-align="middle" width="50%">
           <mj-social
@@ -136,14 +136,14 @@
           >
             <mj-social-element
               padding-right="20px"
-              src="https://www.mounthermon.com.br/emails/commonAssets/icon-ig.png"
-              href="https://www.instagram.com/mounthermonoficial/"
+              src="https://www.classeadministradora.com.br/emails/commonAssets/icon-ig.png"
+              href="https://www.instagram.com/classeadm/"
             >
             </mj-social-element>
 
             <mj-social-element
-              src="https://www.mounthermon.com.br/emails/commonAssets/icon-fb.png"
-              href="https://www.facebook.com/mounthermonoficial/"
+              src="https://www.classeadministradora.com.br/emails/commonAssets/icon-fb.png"
+              href="https://www.facebook.com/administradoraclasse/"
             >
             </mj-social-element>
           </mj-social>
@@ -151,15 +151,15 @@
 
         <mj-column vertical-align="middle" width="50%">
           <mj-text color="white" align="right">
-            <a href="https://mounthermon.com.br"></a>
-            mounthermon.com.br
+            <a href="https://classeadministradora.com.br"></a>
+            classeadministradora.com.br
           </mj-text>
         </mj-column>
       </mj-group>
       <mj-column padding="5% 0 0">
         <mj-text align="center" color="#fefefe" font-size="12px">
           <a
-            href="https://www.mounthermon.com.br/emails/Marco/marcoAzul/"
+            href="https://www.classeadministradora.com.br/emails/Marco/marcoAzul/"
             text-decoration="none"
             >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui e visualize no navegador </b>
