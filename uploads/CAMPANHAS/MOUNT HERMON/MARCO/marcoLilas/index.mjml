@@ -27,79 +27,111 @@
   </mj-head>
 
   <mj-body>
-    <mj-section padding="0">
+    <mj-section padding="10% 0">
       <mj-group>
-        <mj-column width="60%" vertical-align="middle">
+        <mj-column width="25%">
+          <mj-image
+            src="https://www.mounthermon.com.br/emails/Marco/marcoLilas/ribbon.png"
+            padding="0"
+            alt=""
+          />
+        </mj-column>
+
+        <mj-column width="50%">
           <mj-text
-            font-weight="900"
+            color="#A088DB"
+            font-size="24px"
+            padding-bottom="0"
+            font-weight="bold"
+            line-height="0"
+            align="center"
+          >
+            MARÇO
+          </mj-text>
+          <mj-text
+            align="center"
+            color="#A088DB"
+            line-height="1.4"
+            font-size="48px"
+            padding-bottom="0"
+            font-weight="bold"
+          >
+            LILÁS
+          </mj-text>
+          <mj-text
+            align="center"
+            color="#213376"
             font-size="20px"
-            align="left"
-            padding="0 20%"
+            font-weight="300"
+            padding-bottom="0"
           >
-            FEVEREIRO
-          </mj-text>
-
-          <mj-text
-            font-size="64px"
-            align="left"
-            padding="0 20% 5%"
-            line-height="1"
-            font-weight="900"
-            color="#FF8800"
-          >
-            LA <br />
-            RAN <br />
-            JA
-          </mj-text>
-
-          <mj-text align="left" font-size="18px" padding="0 20% 6%">
-            Conscientização sobre
-            <b> leucemia </b>
-          </mj-text>
-          <mj-text align="left" padding="0 20%">
-            A leucemia é uma doença que possui início na medula óssea, local
-            onde o sangue é produzido. <br />
-            Para a prevenção, os
-            <b> exames de rotina são indispensáveis! </b>
-          </mj-text>
-        </mj-column>
-
-        <mj-column vertical-align="middle" width="40%">
-          <mj-image
-            padding="0"
-            src="https://mounthermon.com.br/emails/Fevereiro/fevereiroLaranja/hero.png"
-            alt=""
-          />
-        </mj-column>
-      </mj-group>
-    </mj-section>
-
-    <mj-section background-color="#EDF2F7">
-      <mj-group>
-        <mj-column width="40%" vertical-align="middle">
-          <mj-image
-            src="https://mounthermon.com.br/emails/Fevereiro/fevereiroLaranja/img.png"
-            alt=""
-            padding="0"
-          />
-        </mj-column>
-        <mj-column vertical-align="middle" width="60%">
-          <mj-text padding="0 20%">
-            Além de alertar sobre a prevenção e sintomas, o Fevereiro Laranja
-            também destaca sobre a importância da doação de medula óssea.
-            <br />
-
-            <b> Apoie essa causa! </b>
+            Fortalecendo os cuidados com a
+            <b> saúde do útero </b>
           </mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
 
-    <mj-section
-      background-color="#213376"
-      css-class="Footer"
-      padding="20px 0 0"
-    >
+    <mj-section>
+      <mj-column background-color="#213376" width="100%">
+        <mj-image
+          src="https://www.mounthermon.com.br/emails/Marco/marcoLilas/img.png"
+          padding="0"
+          border-radius="0 0 20px 20px"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10% 0" background-color="#213376">
+      <mj-column
+        padding="8% 10%"
+        border-radius="20px"
+        background-color="#E2CCFF"
+        width="60%"
+      >
+        <mj-text padding="0" color="#213376">
+          <p style="color: #8e7eb7; font-weight: 400">
+            Este mês é dedicado para a
+
+            <b>
+              <i> conscientização sobre o câncer do colo do útero, </i>
+            </b>
+            que pode ser prevenida através da:
+          </p>
+
+          <b> Detecção precoce: </b>
+          <br />
+
+          Realizando o exame de Papanicolau todo ano
+
+          <br />
+          <br />
+
+          <b> Vacina contra o HPV: </b><br />
+
+          Disponível gratuitamente em Unidades Básicas de Saúde (UBS) para
+          meninas de 9 a 14 anos e meninos de 11 a 14 anos
+        </mj-text>
+      </mj-column>
+
+      <mj-column padding="20% 0 0" width="60%">
+        <mj-text
+          font-weight="bold"
+          font-size="20px"
+          align="center"
+          color="#FFFFFF"
+        >
+          Neste
+          <span style="color: #e2ccff; font-weight: bold"> Março Lilás, </span>
+
+          dedique um tempo para cuidar da sua saúde e realizar exames
+          preventivos!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#213376" css-class="Footer">
       <mj-column>
         <mj-social
           font-size="15px"
@@ -152,7 +184,7 @@
       <mj-column>
         <mj-text align="center" color="#fff" font-size="12px">
           <a
-            href="https://www.mounthermon.com.br/emails/Fevereiro/fevereiroLaranja/"
+            href="https://www.mounthermon.com.br/emails/Marco/marcoLilas/"
             text-decoration="none"
             >Caso não esteja conseguindo visualizar o email,
             <b> clique aqui e visualize no navegador </b>
