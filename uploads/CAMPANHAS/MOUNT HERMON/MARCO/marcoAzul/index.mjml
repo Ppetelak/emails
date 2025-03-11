@@ -27,12 +27,7 @@
   </mj-head>
 
   <mj-body>
-    <mj-section
-      background-color="#213376"
-      full-width
-      padding="10% 0 0"
-      border-radius="0 0 20px 20px"
-    >
+    <mj-section background-color="#213376" full-width padding="10% 0 0">
       <mj-column width="80%">
         <mj-text
           color="white"
@@ -54,26 +49,18 @@
 
           Marinho
         </mj-text>
+        <mj-text color="white" font-weight="300" font-size="20px" align="left">
+          Cuidados com a <br />
+          <b> saúde do seu intestino </b>
+        </mj-text>
       </mj-column>
 
       <mj-column width="100%">
         <mj-image
-          src="https://www.mounthermon.com.br/emails/Marco/marcoAzul/hero.png"
+          src="https://www.mounthermon.com.br/emails/Marco/marcoAzul/hero1.png"
           padding="0"
           alt=""
         />
-      </mj-column>
-
-      <mj-column width="80%" padding="0 0 8%">
-        <mj-text
-          color="white"
-          font-weight="300"
-          font-size="20px"
-          align="center"
-        >
-          Cuidados com a
-          <b> saúde do seu intestino </b>
-        </mj-text>
       </mj-column>
     </mj-section>
 
